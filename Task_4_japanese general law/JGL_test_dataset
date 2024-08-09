@@ -1,0 +1,901 @@
+prompt,completion,split
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ ＰＴＡ・青少年教育団体共済法施行規則の目次に含まれる章の数はいくつですか？
+<|im_start|>Answer
+",八章<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 日本農林規格調査会の委員の任期は何年ですか？
+<|im_start|>Answer
+",二年です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 産業競争力強化法に基づく省令で、債権譲渡通知等の記録保存期間は何年間と定められていますか？
+<|im_start|>Answer
+",五年間<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 令和五年度における戦傷病者戦没者遺族等援護法第八条の三第一項の改定率は何ですか？
+<|im_start|>Answer
+",一<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 日本たばこ産業株式会社法に基づき、内閣が制定した政令の内容は何ですか？
+<|im_start|>Answer
+",内閣は、日本たばこ産業株式会社法に基づき、日本専売公社の解散の登記の嘱託や、会社設立に伴う法人税法等の適用に関する措置などを定めた政令を制定しました。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 内閣が制定した政令は、どの法律の第八条の規定に基づいていますか？
+<|im_start|>Answer
+",地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律（平成二十六年法律第百二十五号）第八条<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 無電柱化推進計画を定める責務を持つのは誰ですか？
+<|im_start|>Answer
+",国土交通大臣<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この政令は何に基づいて制定されましたか？
+<|im_start|>Answer
+",公益通報者保護法第十九条の規定に基づいて制定されました。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 南スーダン国際平和協力隊の設置期間はいつまでですか？
+<|im_start|>Answer
+",令和六年五月三十一日まで<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",相続等により取得した土地所有権の国庫への帰属を可能にする制度を創設し、所有者不明土地の発生を抑制することです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 深海底鉱業暫定措置法に基づく許可申請の手数料はどのように定められていますか？
+<|im_start|>Answer
+",手数料は、申請内容と電子申請の有無により異なり、探査事業や採鉱事業などの種類ごとに具体的な金額が定められています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 特定外来生物による生態系等に係る被害の防止に関する法律施行規則の第二条では、どのような場合に飼養等の禁止の適用除外が認められるか？
+<|im_start|>Answer
+",非常災害に対する応急措置、警察や検察官の職務、農林水産省や環境省の職員の業務など、特定の事由に該当する場合に認められる。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 平成二十八年熊本地震に対処するための要介護認定有効期間及び要支援認定有効期間の特例に関する省令はどのような内容ですか？
+<|im_start|>Answer
+",平成二十八年熊本地震に際し災害救助法が適用された市町村の区域内に住所を有する被保険者に対して、要介護認定有効期間及び要支援認定有効期間を延長する特例を定めています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 文化観光拠点施設を中核とした地域における文化観光の推進に関する法律第十六条第一項の規定に基づき、文部科学大臣に提出しなければならない提案書にはどのような事項を記載する必要がありますか？
+<|im_start|>Answer
+",提案に係る文化財の名称、文化財の種類とその員数、所在地、所有者等の氏名や住所、建造物の構造や形式、提案の理由、文化財登録原簿の基準に該当する特徴及び評価、その他参考事項を記載する必要があります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人通則法第八条第三項の主務省令で定める重要な財産とは何ですか？
+<|im_start|>Answer
+",帳簿価額が五十万円以上の財産及び農林水産大臣が定める財産です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 農林水産省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の第一条の趣旨は何ですか？
+<|im_start|>Answer
+",民間事業者等が、農林水産省の所管する法令に係る保存等を、電磁的記録を使用して行う場合については、他の法律及び法律に基づく命令に特別の定めのある場合を除くほか、この省令の定めるところによる。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 食品循環資源の再生利用等の促進に関する法律第二条第六項に基づく熱回収に係る食品循環資源の利用の基準は何ですか？
+<|im_start|>Answer
+",食品循環資源の利用の基準は、特定肥飼料等製造施設が75キロメートル以内に存在しない場合や、再生利用が困難な場合、または食品循環資源の量が再生利用可能量を超える場合に行うこと、さらに得られる熱や電気の量が一定以上であることなどです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 電波法に基づく特定無線設備の技術基準適合証明に関する規則の目的は何ですか？
+<|im_start|>Answer
+",特定無線設備の技術基準適合証明等に関し、法の委任に基づく事項及び法の規定を施行するために必要とする事項を定めること。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の第一章の目的は何ですか？
+<|im_start|>Answer
+",公的給付の支給等の迅速かつ確実な実施を図ることを目的とする。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 令和五年における指定都市の長の選挙の期日はいつですか？
+<|im_start|>Answer
+",令和五年四月九日<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地方独立行政法人法（平成十五年法律第百十八号）別表及び地方独立行政法人法施行令（平成十五年政令第四百八十六号）第五条第一項の規定に基づき、総務省令で定める事務にはどのようなものがありますか？
+<|im_start|>Answer
+",戸籍法や身体障害者福祉法、精神保健及び精神障害者福祉に関する法律、地方税法、狂犬病予防法、道路運送車両法、出入国管理及び難民認定法、国民健康保険法、国民年金法、母子保健法、住民基本台帳法、児童手当法、高齢者の医療の確保に関する法律、介護保険法、電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律、行政手続における特定の個人を識別するための番号の利用等に関する法律、知的障害者に関する情報を記載した手帳の交付、印鑑に関する証明書の交付、学校教育法施行令に基づく通知、行政手続法に基づく審査基準の定め及び公表などがあります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 森林組合法に基づき制定された政令の施行日はいつですか？
+<|im_start|>Answer
+",昭和五十三年十月二日<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 食品循環資源の再生利用等の促進に関する法律に基づき、政令で定める事業にはどのようなものがありますか？
+<|im_start|>Answer
+",沿海旅客海運業、内陸水運業、結婚式場業、旅館業があります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 郵政民営化法第36条第9項に規定する政令で定める日はいつですか？
+<|im_start|>Answer
+",平成十八年一月二十三日です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 昭和六十三年四月分以後の月分の国家公務員等共済組合法による年金の給付額の改定に関する特例は何ですか？
+<|im_start|>Answer
+",昭和六十三年四月分以後の月分の国家公務員等共済組合法による年金の給付について、特定の法律の規定に基づき、金額を一部読み替えて適用する。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",発電に関する原子力の適正な利用に資するため、使用済燃料の再処理後に生ずる特定放射性廃棄物の最終処分を計画的かつ確実に実施させることにより、国民経済の健全な発展と国民生活の安定に寄与することです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 外国為替及び外国貿易法第五十五条の十第三項に基づき、特定重要貨物等を定める省令の施行日はいつですか？
+<|im_start|>Answer
+",平成二十二年四月一日<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 自然環境保全法に基づく原生自然環境保全地域の最低面積はどのくらいですか？
+<|im_start|>Answer
+",千ヘクタールです。ただし、周囲が海面に接している区域については三百ヘクタールです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人農林漁業信用基金法に基づく資金の種類は何ですか？
+<|im_start|>Answer
+",造林、育林、素材の生産、木材の製造、林業種苗、薪炭、きのこの生産に必要な資金などです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 国家公務員法及び国家公務員倫理法に基づく懲戒処分の基準を定める規則は何に違反した場合に適用されますか？
+<|im_start|>Answer
+",職員が倫理法又は同法に基づく命令に違反する行為を行った場合に適用されます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 政治資金規正法施行規則の目次にある章の数はいくつですか？
+<|im_start|>Answer
+",6章です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 都道府県知事が食鳥処理の事業の規制及び食鳥検査に関する法律に基づき、養成施設の登録を行う際に従うべき基準は何ですか？
+<|im_start|>Answer
+",厚生労働省令で定める基準に従う。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",児童の権利を擁護するため、児童買春や児童ポルノに係る行為を規制し、これらの行為により心身に有害な影響を受けた児童の保護のための措置を定めることです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 大規模災害からの復興に関する法律第十二条第三項に基づく協議書の提出先は誰ですか？
+<|im_start|>Answer
+",農林水産大臣及び国土交通大臣<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 道州制特別区域推進本部に設置される参与会議の役割は何ですか？
+<|im_start|>Answer
+",参与会議は、広域行政の推進に関する重要事項について審議し、道州制特別区域推進本部長に意見を述べる役割を持つ。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 供給確保計画の認定を受けようとする者は、どのような書類を国土交通大臣に提出しなければならないか？
+<|im_start|>Answer
+",申請者の定款の写し、登記事項証明書、最近三期間の事業報告の写し、貸借対照表、損益計算書、確実に講じられる見込みがあることを証する書類、暴力団員等に該当しないことを証する書類を提出しなければならない。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ アルコール事業法施行規則の第二章第一節では、アルコールの製造の事業に関するどのような手続きを定めていますか？
+<|im_start|>Answer
+",アルコールの製造の事業に関する許可の申請手続きが定められています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律に基づく指定医療機関の指定を受けるために必要な書類にはどのような事項が含まれますか？
+<|im_start|>Answer
+",病院の名称及び所在地、開設者の名称及び住所、管理者の氏名、担当医師の氏名及び略歴、必要な設備の概要などが含まれます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 昭和五十一年度の一般会計歳入歳出の決算上の剰余金について、財政法第六条第一項の規定は適用されますか？
+<|im_start|>Answer
+",適用されません。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 証券取引法第六章の二第二節の規定による審判手続の開始に関する決定書には、どのような事項が記載されるべきですか？
+<|im_start|>Answer
+",納付すべき課徴金の額、課徴金に係る事実、法令の適用、課徴金の計算の基礎、第一回の審判の期日及び場所が記載されるべきです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 武力攻撃事態等における国民の保護のための措置に関する法律施行令に基づき、外国医療関係者が厚生労働大臣に提出しなければならない書面にはどのようなものがありますか？
+<|im_start|>Answer
+",外国における資格証明書の写し、許可申請書の写し、旅券の写し、業務従事証明書の写し、日本語会話能力証明書の写し、成年被後見人等でない旨の申述書の写し、視覚・聴覚等の障害証明書の写し、罰金以上の刑に処せられていない旨の申述書の写しなどがあります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 女性の職業生活における活躍の推進に関する法律施行規則はいつ施行されますか？
+<|im_start|>Answer
+",令和二年四月一日から施行されます。ただし、第二条及び第三条の規定は令和二年六月一日から施行されます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 下請中小企業振興法に基づく認定を受けようとする者は、どのような手続きを経る必要がありますか？
+<|im_start|>Answer
+",認定を受けようとする者は、様式第一による認定申請書を経済産業大臣に提出しなければなりません。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 警察官及び皇宮護衛官が特殊銃を適正かつ的確に使用し、及び取り扱うために必要な事項を定めることを目的とする規則は何ですか？
+<|im_start|>Answer
+",警察官等特殊銃使用及び取扱い規範<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",有害廃棄物の国境を越える移動及びその処分の規制に関するバーゼル条約等の的確かつ円滑な実施を確保し、人の健康の保護及び生活環境の保全に資することです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 防衛人事審議会の委員はどのように任命されますか？
+<|im_start|>Answer
+",防衛大臣が学識経験のある者のうちから任命します。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この政令の第一章の目的は何ですか？
+<|im_start|>Answer
+",この政令は、特定鉱業権及びこれを目的とする抵当権に関する登録について定めることを目的とする。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 介護保険の調整交付金の額の算定に関する省令はどのような規定に基づいて定められていますか？
+<|im_start|>Answer
+",介護保険の調整交付金の額の算定に関する省令は、介護保険法第百二十二条の三第一項及び第二項の規定に基づいて定められています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 平成二十三年三月十一日に発生した東北地方太平洋沖地震に伴う原子力発電所の事故により放出された放射性物質による環境の汚染への対処に関する特別措置法に基づく政令はいつ施行されましたか？
+<|im_start|>Answer
+",平成二十四年一月一日から施行されました。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 無人航空機登録検査機関に関する省令はどの法律の規定に基づいて定められていますか？
+<|im_start|>Answer
+",航空法（昭和二十七年法律第二百三十一号）の規定に基づいて定められています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 保健師助産師看護師法において、特定行為研修の基準はどのように定められていますか？
+<|im_start|>Answer
+",特定行為研修の基準は、共通科目と区分別科目から構成され、各科目の内容と時間数が定められています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 国家戦略特別区域法に基づく命令の第一条で使用される用語は何に基づいていますか？
+<|im_start|>Answer
+",国家戦略特別区域法、建築物用地下水の採取の規制に関する法律、または建築物用地下水の採取の規制に関する法律施行規則で使用する用語の例によります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 電気事業法等の一部を改正する等の法律附則第十八条第一項本文の規定に基づき一般ガス事業者が定める託送供給約款において定めるべき事項は何ですか？
+<|im_start|>Answer
+",適用範囲、料金、導管やガスメーターに関する費用の負担、ガスの受入量及び供給量の計測方法、託送供給を行うガスの熱量等の範囲、契約の申込み方法などが含まれます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 証券取引法及び金融先物取引法の一部を改正する法律附則第五条第四号に規定する政令で定める日はいつですか？
+<|im_start|>Answer
+",平成十五年六月一日<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 行政手続等における情報通信の技術の利用に関する法律施行規則の目的は何ですか？
+<|im_start|>Answer
+",行政機関等に対して行うこととされ、又は行政機関等が行うこととしている防衛省関係法令に係る手続等を、情報通信技術を活用した行政の推進等に関する法律に基づき、電子情報処理組織を使用する方法その他の情報通信技術を利用する方法により行う場合について定めることです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 内閣が制定した政令は何に基づいていますか？
+<|im_start|>Answer
+",関税定率法第八条第一項、第四項、第九項、第十二項、第二十一項、第二十六項、第三十二項及び第三十七項の規定に基づいています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 職業能力開発促進法第四十七条第一項に基づき、ウェブデザイン職種の技能検定試験を実施する指定試験機関はどこですか？
+<|im_start|>Answer
+",特定非営利活動法人インターネットスキル認定普及協会<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 文化審議会の委員はどのように任命されますか？
+<|im_start|>Answer
+",委員は、学識経験のある者のうちから、文部科学大臣が任命します。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 人事院規則の制定改廃に関する要請を行う際に、職員団体が提出しなければならない書面に記載すべき事項は何ですか？
+<|im_start|>Answer
+",職員団体の名称、主な事務所の所在地、代表者の役職名及び氏名、要請が法に基づくものである旨、要請の内容、要請の理由です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",適切な獣医療の確保を図ることです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 環境影響評価法に基づく都市計画第一種軌道建設等事業の環境影響評価の項目とその手法を選定するための指針は何に基づいて定められますか？
+<|im_start|>Answer
+",環境影響評価法第三十八条の六第三項の規定により読み替えて適用される法第三条の二第一項の主務省令に基づいて定められます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 電子情報処理組織による輸出入等関連業務の処理等に関する法律施行令第一条第五項第一号に規定する申請等又は処分通知等は何に関するものですか？
+<|im_start|>Answer
+",貿易関係貿易外取引等に関する省令第二条第二項の規定による有効期間の延長の申請又は当該有効期間の延長の通知です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 国土利用計画法施行規則に基づく許可申請書に記載すべき事項は何ですか？
+<|im_start|>Answer
+",土地に関する権利の移転や設定に関する詳細、土地の現況、権利の目的、建築物の有無などが含まれます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 大蔵省聴聞手続規則の第一条では、どのような場合にこの省令が適用されると定めていますか？
+<|im_start|>Answer
+",他の法律及び法律に基づく命令に特別の定めのある場合を除き、財務大臣及び財務省に置かれる機関の長が行う不利益処分に係る聴聞の手続に適用されます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の趣旨は何ですか？
+<|im_start|>Answer
+",この法律は、東日本大震災に対処するために必要な財源を確保するための特別措置を定めるものです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 旭日大綬章の表面の図柄は何ですか？
+<|im_start|>Answer
+",五七桐とし、花紫色七宝、葉緑色七宝とする。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",都市部を流れる河川の流域において浸水被害から国民の生命、身体又は財産を保護するため、特定都市河川流域における浸水被害の防止のための対策を推進することです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人国際協力機構の業務方法書に記載すべき事項にはどのようなものがありますか？
+<|im_start|>Answer
+",技術協力、有償の資金供与による協力、無償の資金供与による協力、国民等の協力活動の促進、移住者に対する援助、国際緊急援助活動、人員の養成及び確保、調査及び研究、附帯する業務、業務委託の基準、競争入札その他契約に関する基本的事項、環境配慮その他業務の執行に関して必要な事項<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 原子力発電工作物の保安に関する省令はどのような範囲に適用されますか？
+<|im_start|>Answer
+",この省令は、原子力発電工作物について適用されます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 財政法第六条第一項の規定が適用されないのは、どの年度の一般会計歳入歳出の決算上の剰余金ですか？
+<|im_start|>Answer
+",平成三十年度<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 牛海綿状脳症対策特別措置法第七条第二項に基づき、特定部位として定められている牛の部位は何ですか？
+<|im_start|>Answer
+",牛の扁桃、回腸（盲腸との接続部分から二メートルまでの部分）、月齢が三十月を超える牛の頭部（舌、頬肉、皮及び扁桃を除く）及び脊髄です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 高齢社会対策会議の庶務はどの機関が処理するか？
+<|im_start|>Answer
+",内閣府本府に置かれる政策統括官が処理する。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 不動産登記法の目的は何ですか？
+<|im_start|>Answer
+",不動産登記法の目的は、不動産の表示及び不動産に関する権利を公示するための登記に関する制度を定めることにより、国民の権利の保全を図り、取引の安全と円滑に資することです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地方更生保護委員会事務局に置かれる課は何ですか？
+<|im_start|>Answer
+",総務課と会計課（関東地方更生保護委員会及び近畿地方更生保護委員会に限る）です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 内閣衛星情報センターの次長の役割は何ですか？
+<|im_start|>Answer
+",次長は所長を助け、センターの事務を整理する役割を持つ。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 株式会社国際協力銀行の会計に関する省令の目的は何ですか？
+<|im_start|>Answer
+",株式会社国際協力銀行法の規定により委任された株式会社国際協力銀行の会計に関する事項その他の事項について、必要な事項を定めることを目的とする。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二十三条の二十五第七項に基づき定められた省令の趣旨は何ですか？
+<|im_start|>Answer
+",医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二十三条の二十五第七項の厚生労働省令で定める区分を定めることです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 令和三年東京オリンピック競技大会・東京パラリンピック競技大会特別措置法に基づく小型無人機等の飛行に関する通報の方法は何ですか？
+<|im_start|>Answer
+",小型無人機等の飛行を行う場合、飛行開始の48時間前までに必要な情報を記載した通報書を対象空港の管理者に提出する必要があります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 平成十八年健康保険法等改正法附則第十八条第一項の規定により協会が国の有する権利及び義務を承継したとき、その承継の際に政府から協会に対し出資されたものとされる金額は何とされるか？
+<|im_start|>Answer
+",その承継の際、同条第二項に規定する金額は、政府から協会に対し出資されたものとされる。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 内閣が国有林野の管理経営に関する法律に基づいて制定した政令の目的は何ですか？
+<|im_start|>Answer
+",樹木採取権及び樹木採取権を目的とする抵当権の登録に関し必要な事項を定めることです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 債権譲渡登記規則の第一章では、何が持ち出し禁止とされていますか？
+<|im_start|>Answer
+",動産譲渡登記ファイル及び債権譲渡登記ファイル等<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 金融庁に設置される金融国際審議官の役割は何ですか？
+<|im_start|>Answer
+",金融国際審議官は、金融庁の所掌事務のうち、国際的に処理を要する事項に関する事務を総括整理します。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 環境影響評価法に基づき、工業団地造成事業に係る環境影響評価の項目を選定する際に考慮すべき情報は何ですか？
+<|im_start|>Answer
+",事業特性と地域特性に関する情報を把握する必要があります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 環境影響評価法施行令の一部を改正する政令の施行に伴う経過措置に関する省令の手続未着手事業の届出にはどのような情報が必要ですか？
+<|im_start|>Answer
+",手続未着手事業の届出には、氏名及び住所、事業の名称、目的、原動力の種類及び規模、事業実施区域、設備の配置計画の概要、調査、予測及び評価の結果が必要です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 令和元年度分の震災復興特別交付税の額の決定時期及び交付時期はいつですか？
+<|im_start|>Answer
+",令和元年九月及び令和二年三月<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 協同組合による金融事業に関する法律に基づく政令で、信用協同組合の出資の総額の最低限度はいくらですか？
+<|im_start|>Answer
+",東京都の特別区にある信用協同組合は二千万円、その他の信用協同組合は一千万円です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ ヒトに関するクローン技術等の規制に関する法律施行規則の改正において、人クローン胚の作成の届出に必要な情報は何ですか？
+<|im_start|>Answer
+",人クローン胚を研究に用いる必要性、作成者の技術的能力及び管理的能力、取扱場所、使用する細胞の種類と入手先、提供者の同意取得に関する事項、倫理審査委員会の名称と構成員、提出された意見などが必要です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 沖縄総合事務局の次長の役割は何ですか？
+<|im_start|>Answer
+",次長のうち、一人は総務部、財務部、農林水産部、経済産業部及び運輸部の事務を、他の一人は開発建設部の事務を整理する。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人経済産業研究所が中期計画の認可を受けるためには、どのような手続きを行う必要がありますか？
+<|im_start|>Answer
+",中期計画を記載した申請書を、当該中期計画の最初の事業年度開始の日の三十日前までに経済産業大臣に提出する必要があります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 内閣はどの法律に基づいてこの政令を制定したのですか？
+<|im_start|>Answer
+",市町村の合併の特例等に関する法律（平成十六年法律第五十九号）<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 建築物における衛生的環境の確保に関する法律に基づき、指定試験機関として指定されている団体はどこですか？
+<|im_start|>Answer
+",公益財団法人日本建築衛生管理教育センター<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 社会保障協定の実施に伴う厚生年金保険法等の特例等に関する法律に基づき、適用証明書の申請に必要な情報は何ですか？
+<|im_start|>Answer
+",組合員の氏名、性別、生年月日、住所、個人番号または基礎年金番号、就労の開始予定年月日及び終了予定年月日、就労先の名称及び所在地、その他必要な事項。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 漁業再建整備特別措置法施行規則に基づく改善計画の認定の申請はどの様式を使用する必要がありますか？
+<|im_start|>Answer
+",別記様式第一号の申請書を提出する必要があります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 令和三年度子育て世帯等臨時特別給付金の支給を受ける権利は、どのような扱いが禁止されていますか？
+<|im_start|>Answer
+",譲り渡し、担保に供し、又は差し押さえることができない。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 特定複合観光施設区域の整備の推進に関する法律の目的は何ですか？
+<|im_start|>Answer
+",この法律は、国内外からの観光旅客の来訪及び滞在を促進し、我が国において国際競争力の高い魅力ある滞在型観光を実現するため、特定複合観光施設区域の整備を推進することを目的としています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 当せん金付証票法第六条第一項の規定に基づく政令で定められた金融機関にはどのようなものがありますか？
+<|im_start|>Answer
+",信用金庫及び信用金庫連合会、労働金庫及び労働金庫連合会、信用協同組合及び信用協同組合連合会、農業協同組合及び農業協同組合連合会、漁業協同組合、漁業協同組合連合会、水産加工業協同組合及び水産加工業協同組合連合会、農林中央金庫、保険会社及び外国保険会社等。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 東日本大震災に対処するための水産業協同組合の貸借対照表及び会計帳簿に計上する繰延資産の特例に関する省令は、どのような内容ですか？
+<|im_start|>Answer
+",東日本大震災により損害を受けた水産業協同組合が、損失の全部または一部を繰延資産として計上することができる特例を定めています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 移植に用いる造血幹細胞の適切な提供の推進に関する法律施行規則で、厚生労働省令で定める疾病にはどのようなものがありますか？
+<|im_start|>Answer
+",悪性リンパ腫、横紋筋肉腫、鎌状赤血球症、肝芽腫、急性白血病、血球貪食症候群、原発性免疫不全症候群、骨髄異形成症候群、骨髄増殖性腫瘍、骨髄不全症候群、骨肉腫、サラセミア、神経芽腫、腎腫瘍、膵、組織球性及び樹状細胞性腫瘍、大理石骨病、中枢神経系腫瘍、低ホスファターゼ症、乳がん、表皮水疱、副腎脊髄ニューロパチー、副腎白質ジストロフィー、慢性活動性EBウイルス感染症、免疫不全関連リンパ増殖性疾患、ユーイング肉腫ファミリー腫瘍、リソソーム病<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 割賦販売法の一部を改正する法律附則第五条第七項に基づいて制定された政令はいつ施行されるか？
+<|im_start|>Answer
+",平成三十年六月一日<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ こども家庭庁の経理室が担当する主な事務は何ですか？
+<|im_start|>Answer
+",こども家庭庁の所掌に係る経費及び収入の決算及び会計、国有財産の管理及び処分、物品の管理、東日本大震災復興特別会計の経理、庁内の管理、建築物の営繕に関する事務です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 内閣は、石綿による健康被害の救済に関する法律に基づき、どのような政令を制定しましたか？
+<|im_start|>Answer
+",内閣は、石綿による健康被害の救済に関する法律に基づき、指定疾病、認定の有効期間、療養手当の額、葬祭料の額、特別遺族弔慰金の額などに関する政令を制定しました。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律に基づくフィルタリング推進業務を行う者の登録申請には、どのような情報が必要ですか？
+<|im_start|>Answer
+",氏名又は名称及び住所、事務所の所在地、法人の場合は定款や登記事項証明書などの書類、個人の場合は住民票の写しなどが必要です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 旧令特別措置法による退職年金等の額の改定について、昭和六十二年四月分以後の年金額はどのように算定されるか？
+<|im_start|>Answer
+",昭和六十一年政令第二百四十七号別表第一の仮定俸給を基に、旧法の規定を適用して算定される。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 航空・鉄道事故調査委員会設置法に基づく重大な事故とは何ですか？
+<|im_start|>Answer
+",無人航空機による人の死傷や物件の損壊、航空機との衝突などが含まれます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 特定秘密の保護に関する法律に基づき、特定秘密の指定や解除についてどのような手続きが行われるか？
+<|im_start|>Answer
+",特定秘密の指定や解除は、指定の有効期間やその満了、特定秘密の表示方法、通知方法などの詳細な手続きを経て行われる。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 公証人手数料規則の第一章では、手数料等の支払義務についてどのように規定されていますか？
+<|im_start|>Answer
+",嘱託人が二人以上あるときは、各嘱託人は連帯して手数料等の支払義務を負うと規定されています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 宇宙開発戦略本部の運営に関する事項は誰が定めるのか？
+<|im_start|>Answer
+",宇宙開発戦略本部長が宇宙開発戦略本部に諮って定める。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 環境調査研修所研修規則の目的は何ですか？
+<|im_start|>Answer
+",環境調査研修所において行う環境省の所掌事務に係る事務を担当する職員その他これに類する者の養成及び訓練について必要な事項を定めること。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 雨水の利用の推進に関する法律第二条第二項の政令で定める法人にはどのようなものがありますか？
+<|im_start|>Answer
+",国立研究開発法人医薬基盤・健康・栄養研究所、国立研究開発法人宇宙航空研究開発機構、国立研究開発法人海上・港湾・航空技術研究所など、多くの国立研究開発法人や独立行政法人が含まれます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地域公共交通の活性化及び再生に関する法律に基づく軌道運送高度化事業と道路運送高度化事業は、どのような条件で国庫補助金の交付対象となるか？
+<|im_start|>Answer
+",地方財政法第五条第五号に規定する経費に係る事業に限り、国庫補助金の交付対象となる。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人医薬品医療機器総合機構法第十五条第一項第五号ロの厚生労働省令で定めるものは何ですか？
+<|im_start|>Answer
+",医薬品、医薬部外品、化粧品、医療機器及び再生医療等製品の品質、有効性及び安全性です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",下水道の整備等により一般廃棄物処理業等の経営の基礎となる諸条件に著しい変化を生ずることとなるため、その影響を緩和し、経営の近代化及び規模の適正化を図るための計画を策定し、その実施を推進する等の措置を講ずることにより、業務の安定を保持し、廃棄物の適正な処理に資することを目的とする。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 自殺対策基本法の目的は何ですか？
+<|im_start|>Answer
+",自殺対策基本法の目的は、自殺による死亡者数が高い水準で推移している状況を鑑み、誰も自殺に追い込まれることのない社会の実現を目指し、自殺対策の基本理念を定め、国や地方公共団体等の責務を明らかにし、自殺の防止と自殺者の親族等の支援の充実を図ることです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 証券取引法施行令に基づく上場株式の議決権の代理行使の勧誘に関する内閣府令の一般的記載事項には何が含まれますか？
+<|im_start|>Answer
+",勧誘者が株式の発行会社またはその役員である場合、議案、提案の理由、調査結果の概要などが含まれます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地球温暖化対策の推進に関する法律第六十四条第四項に基づく省令の施行日はいつですか？
+<|im_start|>Answer
+",令和四年四月一日<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 一般社団法人及び一般財団法人の登記の取扱手続はどのように定められていますか？
+<|im_start|>Answer
+",一般社団法人及び一般財団法人の登記の取扱手続は、この省令の定めるところによります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 社会保険診療報酬支払基金が予備費を使用するために必要な手続きは何ですか？
+<|im_start|>Answer
+",厚生労働大臣の承認を受け、使用の理由、金額及び積算の基礎を明らかにした書類を提出する必要があります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 共通構造部型式指定規則の申請手続きに必要な書類は何ですか？
+<|im_start|>Answer
+",申請書、特定共通構造部の構造、装置及び性能を記載した書面、外観図、保安基準に適合することを証する書面、品質管理システムに関する書面、検査実施要領、表示位置及び表示方式を記載した図面、購入契約書の写し、不正行為防止措置が適切に講じられていることを証する書面などが必要です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 東日本大震災の被災者が被災建物に関する登記事項証明書を取得する際の手数料はどうなりますか？
+<|im_start|>Answer
+",東日本大震災の被災者が被災建物に関する登記事項証明書を取得する場合、令和八年三月三十一日までの間に限り手数料が免除されます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",この法律は、排他的経済水域及び大陸棚の保全と利用の促進を図り、我が国の経済社会の健全な発展及び国民生活の安定向上に寄与することを目的としています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人勤労者退職金共済機構の業務運営並びに財務及び会計に関する省令の第一条に基づく重要な財産とは何ですか？
+<|im_start|>Answer
+",帳簿価額が五十万円以上の財産及び厚生労働大臣が定める財産です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 放送法等の一部を改正する法律の施行日はいつですか？
+<|im_start|>Answer
+",平成二十三年三月三十一日<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地方分権の推進を図るための関係法律の整備等に関する法律に基づき制定された政令は何ですか？
+<|im_start|>Answer
+",内閣は、地方分権の推進を図るための関係法律の整備等に関する法律（平成十一年法律第八十七号）附則第百六十四条第一項の規定に基づき、この政令を制定しました。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 資産の流動化に関する法律に基づいて、特定譲渡人が資産対応証券の募集等を行う際の届出方法はどのように定められていますか？
+<|im_start|>Answer
+",特定譲渡人は、別紙様式により作成した届出書に副本一通及び必要書類を添付して、管轄する財務局長に提出しなければなりません。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地方公共団体の特定の事務の郵政官署における取扱いに関する法律に基づき、日本郵便株式会社が行う本人確認の方法は何ですか？
+<|im_start|>Answer
+",日本郵便株式会社の職員が必要な証明を求めることにより行います。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 沖縄の復帰に伴う特別措置に関する法律に基づいて制定された政令は何に関するものですか？
+<|im_start|>Answer
+",鉱区禁止地域の指定等に関する経過措置と不服申立てに関する特例。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 特殊開錠用具の所持の禁止等に関する法律に基づき、政令で定められた特殊開錠用具にはどのようなものがありますか？
+<|im_start|>Answer
+",ピッキング用具、破壊用シリンダー回し、ホールソーのシリンダー用軸、サムターン回しがあります。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 臨床研究法施行規則の目次にはいくつの章が含まれていますか？
+<|im_start|>Answer
+",5つの章が含まれています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 特別職の職員の給与に関する法律に基づき、内閣が制定した政令の改正内容は何ですか？
+<|im_start|>Answer
+",特定の特別職の職員の期末手当に関する政令を改正し、所得基準や期末手当の加算割合などを定めています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地域における多様な主体の連携による生物の多様性の保全のための活動の促進等に関する法律第十五条第三項に基づき、どのような権限が地方環境事務所長に委任されるか？
+<|im_start|>Answer
+",環境大臣の権限のうち、自然公園法に基づく国立公園内での特定の行為に関する許可や届出に関する権限が地方環境事務所長に委任される。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 計量法施行令第十六条に基づく旅費相当額の計算方法は何ですか？
+<|im_start|>Answer
+",国家公務員等の旅費に関する法律の規定により支給される旅費の額とし、職員は行政職俸給表（一）による職務の級が三級である者として計算します。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ この法律の目的は何ですか？
+<|im_start|>Answer
+",介護労働者の雇用管理の改善、能力の開発及び向上等に関する措置を講ずることにより、介護関係業務に係る労働力の確保と介護労働者の福祉の増進を図ることです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 評議員の任期は何年ですか？
+<|im_start|>Answer
+",二年です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 日本私立学校振興・共済事業団法施行規則第一条では、監事はどのような者と意思疎通を図るべきとされていますか？
+<|im_start|>Answer
+",事業団の役員及び職員、並びに監事が適切に職務を遂行するに当たり意思疎通を図るべき者とされています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律施行規則の第一条に定められている行為は何ですか？
+<|im_start|>Answer
+",圧縮、運搬、乾燥、こん包、収集、切断、脱水、破砕、粉砕、分別及び保管です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 電子情報処理組織による登記事務処理の円滑化のための措置等に関する法律施行細則はいつ施行されましたか？
+<|im_start|>Answer
+",平成十五年四月一日から施行されました。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人自動車事故対策機構の目的は何ですか？
+<|im_start|>Answer
+",自動車事故の発生の防止と被害者の保護を増進することです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 賃貸住宅の管理業務等の適正化に関する法律に基づく政令で、賃貸住宅管理業者の登録の更新の手数料はいくらですか？
+<|im_start|>Answer
+",一万八千七百円（電子情報処理組織を使用する場合は一万八千円）<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 構造改革特別区域法に基づく保育所の給食外部搬入方式の容認事業を実施するための要件は何ですか？
+<|im_start|>Answer
+",地方公共団体が設定する構造改革特別区域内の保育所について、食事提供の責任、栄養士による指導、調理業務の受託者の適切な能力、乳幼児の年齢や健康状態に応じた食事提供、食育計画に基づく食事提供などの要件を満たすことが必要です。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 内閣はどの法律に基づいてこの政令を制定しましたか？
+<|im_start|>Answer
+",内閣は、労働者派遣事業の適正な運営の確保及び派遣労働者の就業条件の整備等に関する法律等の一部を改正する法律（平成二十四年法律第二十七号）附則第九条の規定に基づいてこの政令を制定しました。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律に基づく規則の趣旨は何ですか？
+<|im_start|>Answer
+",財務省の所管する法令に係る保存等を電磁的記録を使用して行う場合、この規則に従うことを定めています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進に関する法律施行令に基づく特定地域内学部収容定員の抑制等に関する命令は何を目的としていますか？
+<|im_start|>Answer
+",地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進を目的としています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人労働者健康安全機構法に基づく評価委員の任命は誰が行いますか？
+<|im_start|>Answer
+",厚生労働大臣が行います。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 日本の領海の範囲はどのように定められていますか？
+<|im_start|>Answer
+",日本の領海は、基線からその外側十二海里の線までの海域と定められています。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 防衛省の職員の給与等に関する法律に基づいて制定された省令は何を改正するものですか？
+<|im_start|>Answer
+",若年定年退職者給付金に関する省令の全部を改正するものです。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 平成三十年法律第八十七号に基づき、防衛省の職員の俸給の切替えに関する省令はいつから適用されますか？
+<|im_start|>Answer
+",平成三十年四月一日から適用されます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 特定健康診査の項目にはどのような検査が含まれていますか？
+<|im_start|>Answer
+",特定健康診査の項目には、既往歴の調査、自覚症状及び他覚症状の有無の検査、身長・体重・腹囲の検査、BMIの測定、血圧の測定、肝機能検査、血中脂質検査、血糖検査、尿検査などが含まれます。<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 水俣病問題の解決に向けた取組はどの章に記載されていますか？
+<|im_start|>Answer
+",第三章<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 独立行政法人海技教育機構法第十四条第一項の規定により、医療法施行令第一条の五の規定を適用する際に「主務大臣」とあるのは何と読み替えられるか？
+<|im_start|>Answer
+",独立行政法人海技教育機構<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely. Always answer in japanese. <|im_end|>
+<|im_start|>Question
+ 警察法施行令に基づく聴聞及び弁明の機会の付与に関する規則の適用範囲はどのように定められていますか？
+<|im_start|>Answer
+",国家公安委員会、都道府県公安委員会及び警察署長並びにこれらの者の権限に属する事務を委任された者が行う聴聞及び弁明の機会の付与に関する手続について、他の法令に別段の定めがある場合を除き、この規則の定めるところによる。<|im_end|>,train

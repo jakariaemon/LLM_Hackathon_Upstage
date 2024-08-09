@@ -1,0 +1,1201 @@
+prompt,completion,split
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Can employers impose penalties for non-fulfillment of a labor contract?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2020년 3월 21일 부산진경찰서 형사당직실로 이동하던 중 어떤 행위를 하여 경찰관의 직무집행을 방해하였나요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 原子力規制委員会の所管する法令に基づく手続等を情報通信技術を活用して行う場合、どのような方法が規定されていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How can companies measure the effectiveness of their market access strategies?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 内閣が制定した政令で、預貯金口座の管理等に関する法律第十四条に規定する金額はいくらですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 文化財保護法第百八十二条の二第一項の規定に基づく地方登録文化財の登録提案に必要な書類は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the total amount of inbound FDI into Korea with full ownership from 2005 to 2017 in billion US$?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How did the scope of domestic-sourced income change from the business year commencing on or after April 1, 2016?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 피해자의 집에 어떻게 침입하였습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ この法律の目的は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 교도관의 직무집행을 방해한 행위는 어떤 법률 조항에 해당하는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 第七条に基づき、北海道国立大学機構が承継する資産の価額を評価する評価委員は誰が任命するか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 新型コロナウイルス感染症対策地方税減収補塡特別交付金に関する省令は、どの法律の規定に基づいて定められていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the abbreviation for the Korea Development Bank?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 어떤 행위로 성매매알선등행위의처벌에관한법률을 위반하였습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 경찰공무원에게 욕설을 하고 휴대전화를 던져 폭행한 행위는 어떤 죄에 해당하는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Who authored the paper ""Economic crisis and its social consequences""?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 피해자를 매단 채 차량을 후진하여 상해를 입힌 행위는 어떤 법률 조항에 해당하는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the purpose of temporary visitor status in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the name of the government-run employment agency in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the title of the article by Van Nooden published in Nature in 2016?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the deadline for a permanent resident or a foreign resident of Japan younger than 16 years old to apply to update the period of validity of their resident card?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What does Health Insurance and Nursing Care Insurance cover?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 二千二十五年日本国際博覧会に協賛するための競輪の開催回数の特例について、年間で一競輪場当たり何回まで開催できるか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How are deemed working hours calculated for the ""discretionary working system for planning services""?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2017년 10월 15일 밤에 어떤 상태로 어떤 구간에서 운전하였습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ デジタル庁の所管に属する不動産及び船舶に関する権利の登記を嘱託する職員は誰ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ In what journal was the 2009 paper ""Country-of-origin effects of foreign direct investment"" published?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What type of government did Park Chung-Hee represent?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2016년 12월 18일에 어떤 법을 위반했나요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How has South Korea's economy evolved since the 1960s?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the percentage of inbound FDI into Korea with full ownership from Others for the period 2015-2017?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the focus of Table 10.1?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the full name of Taylor & Francis?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 情報通信技術を利用する方法による国の歳入等の納付に関する法律施行規則の趣旨は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 2017년 4월 10일 용인시 수지구에서 피해자들의 다리부위를 몰래 동영상 촬영한 행위는 어떤 법률을 위반한 것인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Can business continue in Japan if there are still registered representatives?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 過疎地域の持続的発展の支援に関する特別措置法第十四条第二項に基づく総務省令で定める額の算定方法は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 特定複合観光施設区域整備法に基づくカジノ事業者又はカジノ施設供用事業者が行う設置運営事業等の監査及び会計に関する命令は、どのように定められていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 혈중알코올농도 0.186%의 술에 취한 상태로 약 500m 구간에서 승용차를 운전한 행위는 어떤 법률을 위반한 것인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2015년 5월 16일 혈중알코올농도 0.05%의 상태로 약 7km를 운전한 사실이 있습니다. 이 행위는 어떤 법률 조항을 위반한 것인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How many days of paid leave are granted to employees who have worked for six consecutive months?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 2016년 7월 19일 음주운전으로 적발된 사건에서 적용된 법 조항은 무엇인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the meaning of FBA in the context of international business?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What documents are required to open a bank account under the company name?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What are the beneficiaries of the systemic informality still around in Korea?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What are some of Fabian Jintae Froese's academic qualifications?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Who are the authors of the article ""How and when is social networking important? Comparing European expatriate adjustment in China and Turkey""?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 자동차운전면허 없이 혈중알코올농도 0.118%의 술에 취한 상태로 약 310m 구간에서 자동차를 운전하였다. 이에 해당하는 법적 처벌은 무엇인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How can a branch office be closed down in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Is the establishment of a board of directors required for small and medium companies in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 2017년 10월 25일 구미시 C약국 앞 도로에서 신호를 위반하여 이륜자동차로 피해자 E를 들이받아 상해를 입힌 사건에서 피고인의 법적 책임은 무엇인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 労働者協同組合の設立に必要な最低人数は何人ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 피해자에게 어떤 이유로 폭행을 가했으며, 피해자는 어떤 상해를 입었습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the Uppsala process theory of internationalization?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What activities require a foreign corporation to submit tax notification without establishing a branch office?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 米穀等の取引等に係る情報の記録及び産地情報の伝達に関する法律に基づく立入検査の際に職員が携帯する証明書の様式について、どのような特例が定められていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Can the minimum annual income criteria be abolished for certain categories of highly skilled foreign professionals?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ デジタル庁の主管又は所管に係る一般会計及び特別会計の歳入はどのように納付することができるか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 술에 취한 상태로 경찰공무원을 폭행한 행위는 어떤 법률 조항에 해당하는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 原子力損害賠償・廃炉等支援機構法に基づく省令の施行日はいつですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the URL for the information on GDP per capita in South Korea for the year 2015?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the third step in the general flow of procedures for dissolving/liquidating a subsidiary company?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法施行令第九条に基づく防災のための集団移転促進事業に関する特別措置はいつ施行されましたか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the maximum premium rate for Workers' Accident Compensation Insurance?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Who are the specialists that provide accounting and tax support to companies operating in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Do products exported to Korea through Jikgu require local language labels, certification or safety tests?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ When was the ""Laws & Regulations on Setting Up Business in Japan"" booklet first published?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2020년 5월 9일 김포시의 유흥주점에서 경찰관을 폭행하여 어떤 법을 위반했는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ この政令はいつから施行されますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 産業標準化法に基づく省令の第一章は何に関するものですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 피해자의 뺨을 때리고 멱살을 잡아 흔든 행위는 어떤 법률 조항에 해당하는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 放送法の一部を改正する法律の施行に伴い、衛星基幹放送に係る周波数の使用に関する基準は何を目的としていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 令和四年法律第十七号に基づき、令和四年六月に支給する期末手当に関する特例措置について定めた規則は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the title of the article by Van Nooden that discusses South Korea's research investment?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2020년 3월 18일 서울 중구의 한 식당에서 피해자에게 국물 한 뚝배기를 더 달라고 요청했으나 거절당하자 피해자에게 모욕적인 말을 하여 공연히 모욕죄를 저질렀습니다. 이와 관련된 법조항은 무엇인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the fifth step in the general flow of procedures for dissolving/liquidating a subsidiary company?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What was the direction of structural reforms after the 1997 crisis?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 피해자 D와 다투는 과정에서 어떤 행위를 하여 상해를 입혔는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the meaning of ""person who gave properties"" and ""person who received properties"" in the context of inheritance and gift tax in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 피해자에게 어떤 신체적 상해를 입혔으며, 이에 해당하는 법적 조항은 무엇인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How do informal ties and networks impact decision-making in Korea?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 沖縄弁護士に関する政令第四条第一項第二号に規定する法務省令で定める者はどのような者ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Is a bank capital custody certificate required for all joint-stock corporations?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Is a change of status of residence automatically approved?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 樹木採取権登録令施行規則の第一章の内容は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How does the taxation method for non-residents change in terms of income tax pertaining to 2017 or later?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2014년 7월 13일 혈중알콜농도 0.191%의 상태에서 약 50m를 운전한 행위는 어떤 법률을 위반한 것인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 술에 취한 상태에서 경찰관을 폭행하여 정당한 직무집행을 방해한 경우, 어떤 법률 조항에 따라 처벌받을 수 있는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the purpose of the resident card in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the purpose of remitting the joint-stock corporation capital to an account of the incorporator or representative director?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How do multinational corporations engaged in activities in Japan calculate and pay their taxes owed?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 2020년 7월 4일 창원시 성산구에서 혈중알코올농도 0.175% 상태로 BMW X6 승용차를 운전한 행위는 어떤 법률을 위반한 것인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 교차로에서 좌회전하다가 횡단보도를 건너던 보행자를 충돌하여 상해를 입힌 사건에서 피고인의 법적 책임은 무엇인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is legally banned in terms of labor contracts?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How do the thin-capitalization taxation rule and the earnings stripping rules interact?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Who is the author of Chapter 3?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 環境影響評価法施行令の一部を改正する政令の施行に伴う経過措置に関する省令の手続未着手事業の届出にはどのような情報が必要ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the process for registering a new business in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the maximum number of days of paid leave that an employee can take in any one year if they have been continuously employed at the same company for not less than seven years and six months?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the total number of inbound FDI notifications to Korea from 2005 to 2017?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How has the Korean government encouraged economic development and well-being?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 어떤 목적으로 여자화장실에 침입하였으며, 어떤 행위를 시도하였는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 電気事業法等の一部を改正する等の法律附則第四十七条第一項に基づく分割証明情報の申請手続に関する省令において、承継法人が分割証明情報の提供を求める際に提出しなければならない書類は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 피해자 C와 D에게 어떤 상해를 가하였으며, 이에 해당하는 법 조항은 무엇인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What are the different types of ties in Korea and their implications for business purposes?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is Fabian Jintae Froese's position and research interests?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2017년 7월 8일 대구 수성구에서 피해자 D에게 어떤 상해를 가했나요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What does PCT stand for?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What are the top sectors of outbound M&As in South Korea from 2015 to 2018?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How did the informal network create a shadow world in Korea's business environment?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 令和三年度予算に係る財政法第十七条各項に規定する書類の送付期限はいつですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 令和五年三月予備費使用及び令和五年度予算に係る子育て関連給付金とは何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Which transactions are deemed non-taxable for consumption tax purposes in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How did the authoritarian polity benefit Korea during the labor- and capital-intensive phases?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2020년 1월 28일 대전 서구의 식당에서 피해자에게 어떤 상해를 입혔습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 供給確保計画の認定を受けようとする者は、どのような書類を提出しなければならないか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is direct exporting?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2017년 12월 31일 부천시 송내역 앞 도로에서 복사골문화센터사거리까지 약 1km 구간에서 혈중알코올농도 0.100%의 상태로 B 포터 화물차를 운전하였는데, 이에 해당하는 법적 위반 사항은 무엇인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the purpose of the notifications mentioned in this section?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the CFC (Controlled Foreign Company) rule in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 令和五年度における高齢者の医療の確保に関する法律第三十四条第二項第二号の政令で定める率は何パーセントですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 教育職員等による児童生徒性暴力等の防止等に関する法律施行規則の第一条では、免許管理者がどのような場合に通知を行うと定めていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 음주 상태에서 교통사고를 일으켜 여러 피해자에게 상해를 입힌 경우, 적용되는 법률 조항은 무엇인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 피해자에게 약국 매입과 관련하여 거짓말을 하고 돈을 편취한 행위는 어떤 법률 조항에 해당하는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the purpose of the documents certifying the subsidiary company's articles of incorporation in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 혈중알콜농도 0.171%의 술에 취한 상태로 주차장에서 차량을 운전한 행위는 도로교통법을 위반한 것인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Who edited the book ""The Korean economic development path - Confucian tradition, affective network""?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 公益信託の引受けの許可を申請する際に必要な書類は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 지하철 강남역에서 피해 여성의 치마 속을 동영상 촬영한 행위는 어떤 법률을 위반한 것인가요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How can enterprises in Japan recognize contributions to a severance pay reserve for accounting purposes?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Will legislation that is intended to protect workers be enforced in the forum state regardless of the governing law agreement?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ When did the Ministry of Commerce, Industry and Energy (MOCIE) release a press release (in Korean)?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the ISBN number for the electronic version of the book?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ How has the Korean polity responded to constant social pressure?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 民間事業者が犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律に基づく書面の保存を電磁的記録で行う場合、どのような方法で保存しなければならないか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What are the four different kinds of insurance systems that companies in Japan are legally obliged to take part in?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the maximum number of hours an employer can require an employee to work in excess of statutory working hours in a year?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Are there additional points given for certain higher degrees?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What documents are needed for the subsidiary establishment procedures?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 自然災害義援金に関する法律の趣旨は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2016년 9월 5일 서울 강북구에서 지인 자녀의 결혼식 뒤풀이 중 피해자와 언쟁을 벌이다가 피해자의 이마를 찢어지게 하는 상해를 가한 혐의로 어떤 법을 위반했나요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the deadline for a mid- to long-term foreign resident to notify the regional immigration bureau of changes in their organization or status?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What are the classic Confucian virtues and moral norms that explain the strong social hierarchies in Korea?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the purpose of the payment by members of the investment stipulated in the articles of incorporation?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What typeface was used for the book?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the focus of Chapter 5 in the book?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 預金保険機構が預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律に基づいて行う業務の特例に関する命令はいつ施行されましたか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 성명불상의 보이스피싱 조직원으로부터 받은 인감도장과 통장을 이용하여 피해금원을 인출하고 전달한 행위는 어떤 법률에 의해 처벌받을 수 있습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2017년 9월 16일 서울 강동구에서 혈중알콜농도 0.167% 상태로 약 200m 구간을 운전하였는데, 이는 어떤 법률을 위반한 것인가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the common minimum annual income criterion for all age groups?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Why did Yuzhen International Korea choose Pohang as its optimal location?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What does TMT stand for?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 特定資金移動履行保証金の取戻しを行う際に必要な手続きは何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2014년 12월 13일 부산 금정구의 의류 할인 행사 매장에서 어떤 물품을 절취했습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2020년 12월 27일 부산 해운대구의 펜션에서 술에 취해 다른 투숙객과 시비가 붙었고, 경찰관에게 모욕적인 발언을 하여 모욕죄와 공무집행방해죄로 기소되었습니다. 피고인이 저지른 행위는 어떤 법 조항에 해당하나요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What does Table 4.3 cover?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Are there any exceptions to the requirement for mid- to long-term foreign residents to file notifications?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What does EOI mean in the context of economic development?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Who can be covered by temporary visitor status for business purposes?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the main topic of Chapter 12?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What were the changes introduced to the Korean political environment in 2011 and 2013?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2017년 5월 12일 청주시 청원구에서 초등학생들이 하교하는 것을 보고 어떤 행위를 하였습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ この法律の目的は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Can a company work rule that requires more than two weeks' notice to resign be enforced?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 産業標準化法に基づく役務に係る日本産業規格への適合性の認証に関する命令の目次はどのような構成になっていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What new foreign tax credits have become available to foreign corporations due to the change in the scope of taxable income of Japanese branches?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 特定デジタルプラットフォームの透明性及び公正性の向上に関する法律施行規則は何のために定められたか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2018년 10월 16일 공주시에서 어떤 법을 위반했습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What conditions must be met to carry forward losses in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 性行為映像制作物への出演に関する法律の目的は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ When was the information on GDP per capita in South Korea accessed?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Which employers are required to draw up work rules?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Are there any limitations on the carry-over of losses for corporations with 100 million yen or less paid-in capital?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 2014년 3월 31일 음주운전으로 적발된 사건에서 피고인의 혈중알코올농도는 얼마였습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 令和二年度子育て世帯生活支援特別給付金はどのような条件で差し押さえることができないとされていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the main cause of the 1997 financial crisis in Korea?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 文化観光拠点施設を中核とした地域における文化観光の推進に関する法律施行規則の第一条で定められている文化資源の解説及び紹介の方法は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the difference between Yongo and Yonjul in Korean culture?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Can foreign nationals with temporary visitor status in Japan obtain a resident card?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 金融サービスの提供に関する法律に基づく金融サービス仲介業者保証金規則の第1条では、権利の実行の申立てを行うためにどのような手続きが必要ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What were the consequences of the 1997 financial crisis on major Korean companies?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ Can you explain the taxpayer and scope of taxable properties for inheritance and gift tax in Japan?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 特定特殊自動車排出ガスの規制等に関する法律に基づく立入検査の際に職員が携帯する証明書の様式に関する特例は何に基づいて定められていますか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What was the impact of the NGO revolution on state-business relations in Korea after the 1997 crisis?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What was the impact of the Korean government's development of special economic zones (SEZs)?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is added to the premium for Workers' Accident Compensation Insurance to fund benefits for asbestos-induced diseases?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What type of notifications regarding resident cards are there?
+<|im_start|>Class
+",japanese business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ この法律の目的は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 消費生活用製品安全法に基づく立入検査の際に職員が携帯する証明書の様式は、どのように定められているか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What does KOSDAQ stand for?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 2018년 6월 16일 수원시 팔달구 B시장 화장실 앞에서 어떤 이유로 피해자 C을 폭행하였나요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 地域人口の急減に対処するための特定地域づくり事業の推進に関する法律に基づき、労働者派遣事業を行おうとする特定地域づくり事業協同組合は何をしなければならないか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인은 피해자 B가 운영하는 식당에서 어떤 행위로 인해 업무방해와 사기 혐의를 받았나요?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 2012년 8월 28일 거제시에서 음주운전한 사실에 대해 어떤 법률 조항이 적용되는가?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 피고인이 타인의 재물을 절취한 행위는 어떤 법률에 의해 처벌받을 수 있습니까?
+<|im_start|>Class
+",korean general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ 安定供給確保支援法人の指定を受けるために必要な書類は何ですか？
+<|im_start|>Class
+",japanese general law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the significance of Yongo in Korean society and business?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What role do legal and regulatory requirements play in a company's business environment?
+<|im_start|>Class
+",korean business law<|im_end|>,train
+"<|im_start|>system
+You are an expert classifer. Based on the given Sentece, Classfity them as one of the four category:korean general law, korean business law, japanese general law,japanese business law  <|im_end|>
+<|im_start|>Input
+ What is the first step in establishing a Kabushiki-Kaisha (joint-stock corporation)?
+<|im_start|>Class
+",japanese business law<|im_end|>,train

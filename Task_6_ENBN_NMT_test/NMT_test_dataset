@@ -1,0 +1,601 @@
+prompt,completion,split
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ irritation
+<|im_start|>Answer
+",আঃ ১<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ pre-eminent
+<|im_start|>Answer
+",অগ্রগণ্য<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Earlier, Ben-hadad's father had similarly assigned himself streets in Samaria for commercial purposes.
+<|im_start|>Answer
+","এর আগে, বিন্হদদের পিতা একইভাবে বাণিজ্যিক উদ্দেশ্যে শমরিয়ার পল্লী চেয়েছিলেন।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ ""Who is this stranger who speaks of omens?"" asked one of the chieftains, eyeing the boy.
+<|im_start|>Answer
+","লক্ষণ নিয়ে কথা বলে, কে এ নবাগত? এক গোত্রপতি বলে সান্তি রাগেীকে দেখতে দেখতে।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ This issue of The Watchtower discusses how God will fulfill that promise and what it can mean for you.
+<|im_start|>Answer
+","প্রহরীদুর্গ পত্রিকার এই সংখ্যা ব্যাখ্যা করে, কীভাবে ঈশ্বর তাঁর এই প্রতিজ্ঞা পরিপূর্ণ করবেন আর এটা আপনার জন্য যা অর্থ রাখতে পারে।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ gesture
+<|im_start|>Answer
+",ভঙ্গি<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ plough.
+<|im_start|>Answer
+",কর্ষণ করা<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ unbelievable
+<|im_start|>Answer
+",প্রত্যয়াতীত<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ In times like this, security is more important than liberty.
+<|im_start|>Answer
+","এমন অবস্থায়, নিরাপত্তা মুক্তির চেয়েও জরুরি<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ digital certificate
+<|im_start|>Answer
+",ডিজিটাল প্রত্যয়ন পত্র<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ piquing
+<|im_start|>Answer
+",উত্তেজিত করা<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Are Female Vigilantes The Answer To Stop Rapes In India?
+<|im_start|>Answer
+",নারীদের পাহারাদারীর ব্যবস্থা করে কি ভারতে ধর্ষণ বন্ধ করা যাবে?<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ The right-bank of the Jamuna - once a part of the Tista floodplain is part of the bigger floodplain.
+<|im_start|>Answer
+","যমুনার ডানতীর, তথা একসময়কার তিস্তা প্লাবনভূমির একটি অংশ বৃহত্তর প্লাবনভূমিরই একটি অংশ হিসেবে বিদ্যমান ছিল।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Originally, per-minute billing was provided by phone companies (in the U.S., using 976, then 900 numbers). There was, from some services, an attempt to keep the caller aroused but short of orgasm, so he would spend more money. (This attitude still survives among some providers.) When public (mostly female) pressure forced the phone companies to stop providing this service to sex workers, a transition was made to a manual method: pre-paid blocks of time, 10, 30, 60 minutes, whatever the customer would pay for. The incentives for providers were then reversed; rather than earning money from keeping the customer on the line (orgasm delayed), they earned more from bringing the caller to orgasm quickly, so as to move on rapidly to another call. Unused minutes were rarely usable on a second call. The provider provided (say) 10 minutes of service, but got to keep all of the money (say 20 minutes).
+<|im_start|>Answer
+","মূলত, প্রতি মিনিটের জন্য বিল ধার্য করত ফোন সংস্থাগুলি। কিছু পরিষেবা থেকে, কলারকে জাগ্রত করে রাখার চেষ্টা করা হত কিন্তু অর্গাজম হতে দিত না, তাই তিনি আরও অর্থ ব্যয় করতেন। (এই মনোভাব এখনও কিছু সরবরাহকারীদের মধ্যে টিকে আছে।) যখন জনসাধারণের মধ্যে (বেশিরভাগ মহিলা) চাপ ফোন সংস্থাগুলিকে বাধ্য করল যৌনকর্মীদের এই পরিষেবা সরবরাহ বন্ধ করতে, ম্যানুয়াল পদ্ধতিতে একটি রূপান্তর হয়েছিল: গ্রাহক যা দেয় এমন প্রি-পেইড ব্লক যেসন ১০, ৩০, ৬০ মিনিটের ব্লক । সরবরাহকারীদের জন্য তখন বিপরীত আচরণ পরিলক্ষিত হয়েছিল; গ্রাহককে লাইনে রেখে অর্থ উপার্জনের পরিবর্তে (প্রচণ্ড উত্তেজনা বিলম্বিত করে), তারা কলকারীকে দ্রুত অর্গাজমে নিয়ে আসে, যাতে দ্রুত অন্য কলটিতে যেতে পারে। অপ্রয়োজনীয় মিনিট দ্বিতীয় কলে খুব কমই ব্যবহারযোগ্য ছিল। সরবরাহকারী ১০ মিনিটের পরিষেবা সরবরাহ করেছেন (ধরুন) তবে অর্থ রেখেছেন (২০ মিনিট বলে)।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ AS TOLD BY NAJIB SALEM
+<|im_start|>Answer
+",বলেছেন ন্যাজিব সালেম<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Vatican laws are there to protect this church.
+<|im_start|>Answer
+",ভ্যাটিক্যানের আইন এই পবিত্র স্থানের সুরক্ষার জন্যই তৈরি<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ celebrates
+<|im_start|>Answer
+",কীর্তন গাত্তয়া<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ On the other hand in the state politics of India important parties are the national parties like Indian National Congress, Bharatiya Janta Party(B.J.P), Communist party of India (MArxist)(CPI (M))and more than one regional parties.
+<|im_start|>Answer
+",অন্যদিকে ভারতের রাজ্য-রাজনীতিতে প্রাধান্য বিস্তার করেছে ভারতীয় জাতীয় কংগ্রেস ভারতীয় জনতা পার্টি (বিজেপি) ভারতের কমিউনিস্ট পার্টি (মার্কসবাদী) (সিপিআই(এম)) প্রভৃতি জাতীয় দল ও একাধিক আঞ্চলিক পার্টি।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ pitted
+<|im_start|>Answer
+",লড়ান<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Switch version
+<|im_start|>Answer
+",সুইচ সংস্করণ<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ burst out laughing
+<|im_start|>Answer
+",হাসা<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ sidereal.day
+<|im_start|>Answer
+",নাক্ষত্র দিন<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ A 14-member board of directors including the chairman and a vice chairman governs the overall affairs of the bank.
+<|im_start|>Answer
+",চেয়ারম্যান ও ভাইস চেয়ারম্যান নিয়ে চৌদ্দ সদস্যের পরিচালনা পর্ষদ ব্যাংকটির সার্বিক ব্যবস্থাপনার দায়িত্ব পালন করে।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Still, considering how people viewed time back in those days can be helpful.
+<|im_start|>Answer
+","তা সত্ত্বেও, সেই সময়ে লোকেরা সময়কে যেভাবে দেখত, তা বিবেচনা করা সাহায্যকারী হতে পারে।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ He ""concluded a covenant between himself and all the people and the king that they would continue as the people of Jehovah.""
+<|im_start|>Answer
+","তিনি ""আপনার এবং সমস্ত লোকের ও রাজার মধ্যে এক নিয়ম করিলেন, যেন তাহারা সদাপ্রভুর প্রজা হয়।""<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Secondly, non-IJMA mills increased their share of the production by working 108 hours a week.
+<|im_start|>Answer
+","দ্বিতীয়ত, আইজেএমএ-বহির্ভূত মিলগুলিতে সপ্তাহে ১০৮ ঘণ্টা কর্ম-সময় বাড়িয়ে তাদের উৎপাদন বৃদ্ধি করে।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Jesus himself stated that John the Baptist was peerless as a prophet of God, but ""a lesser one in the kingdom of the heavens is greater than he is.""
+<|im_start|>Answer
+","যিশু নিজে উল্লেখ করেছিলেন যে, যোহন বাপ্তাইজক ঈশ্বরের একজন ভাববাদী হিসেবে অতুলনীয় ছিলেন, তবুও ""স্বর্গ-রাজ্যে অতি ক্ষুদ্র যে ব্যক্তি, সে তাঁহা হইতে মহান্।""<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ sensationalized
+<|im_start|>Answer
+",রোমাঞ্চকর<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ informatory
+<|im_start|>Answer
+",শিক্ষামূলক<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ It's a big problem.
+<|im_start|>Answer
+",এটা একটা বড় সমস্যা।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Hugo, follow me.
+<|im_start|>Answer
+","হিউগো , আমাকে অনুসরন করো।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ The victorious ruling noted that within the scope of religious freedom someone might 'obey the tenets of faith' more than the demands of the State. - 8/15, page 8.
+<|im_start|>Answer
+","বিজয়ী আইনবিদরা বলেছিলেন যে, একজন ব্যক্তি ধর্মীয় স্বাধীনতার একটা সুযোগ হিসেবে রাষ্ট্রের দাবির চেয়ে 'ধর্মীয় বিশ্বাসগুলোকে আগে মানতে' পারেন। - ৮/১৫, পৃষ্ঠা ৮.<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Ibu, hey Ibu, get up!
+<|im_start|>Answer
+","ইবু, এই ইবু ওঠ!<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ ""So this symbol means the Illuminati brotherhood is resurfacing?""
+<|im_start|>Answer
+","তার মানে, এই প্রতীকটা বলছে যে ইলুমিনেটি ব্রাদারহুড এবার বেরিয়ে আসবে?<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ By using what four viewpoints might we beneficially analyze what we read?
+<|im_start|>Answer
+","আমরা যা পড়ি, তা বিশ্লেষণ করে উপকার পাওয়ার জন্য কোন চারটে দৃষ্টিভঙ্গি ব্যবহার করা যেতে পারে?<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ OK
+<|im_start|>Answer
+",সন্তোষজনক<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Motherfucker.
+<|im_start|>Answer
+",শালা.<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ ""Can the crime commited be compensated by capital punishment?"" and other issues like these.
+<|im_start|>Answer
+",""" যে অপরাধ করা হয়েছে তা কি মৃত্যুদন্ড দিয়ে ক্ষতিপুরন করা যায়?"" আর আরো কিছু।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Over 200 posters have been collected on the site and can be viewed.
+<|im_start|>Answer
+",এই সাইটটিতে প্রায় ২০০টি সংগৃহিত পোস্টার দেখা যাবে।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Winner: Simon Taufel (Australia)
+<|im_start|>Answer
+",সাইমন টাওফেল (অস্ট্রেলিয়া)<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ butterier
+<|im_start|>Answer
+",তেলতেলে<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Now, he really (is) into new technology.
+<|im_start|>Answer
+",এখন তিনি সত্যিই নতুন প্রযুক্তির মধ্যে রয়েছেন।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Should I tell you about your father?
+<|im_start|>Answer
+",আমার কি তোমার বাবা সম্পর্কে বলা উচিৎ?<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ The gods had boats, full-sized barges which were normally stored inside their temples and were used to transport their cult statues along waterways during various religious festivals.
+<|im_start|>Answer
+",এই দেবদেবীদের নৌকা বা পূর্ণ-দৈর্ঘ্যের বজরা ছিল। এগুলি সাধারণত মন্দিরের ভিতরেই রক্ষিত হত এবং বিভিন্ন ধর্মীয় উৎসবে জলপথে সেই দেবদেবীদের কাল্ট মূর্তিগুলি পরিবহণের কাজে ব্যবহৃত হত।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Peace is expensive to buy.
+<|im_start|>Answer
+",শান্তি খুবই দামি জিনিস.<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ The majority of the kamars of Bangladesh are Vaishnavas, but a few follow Sakta rituals.
+<|im_start|>Answer
+",বাংলাদেশের অধিকাংশ কামারই বৈষ্ণব কিন্তু অল্পসংখ্যক কামার শাক্ত ধর্মাম্বলম্বী।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ unconsidered
+<|im_start|>Answer
+",অবহেলিত<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ There, he scored 160 and shared century partnerships with Arthur Carr and Frank Mann.
+<|im_start|>Answer
+",১৬০ রান করেন। এ সময় আর্থার কার ও ফ্রাঙ্ক মানের সাথে শতরানের জুটি গড়েন।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Watson, Admiral Charles
+<|im_start|>Answer
+","ওয়াটসন, অ্যাডমিরাল চার্লস<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ The album is one of the most commercially successful rock albums of all time; a US number 1, it remained on the ""Billboard"" chart for more than fourteen years, selling more than 45 million copies worldwide.
+<|im_start|>Answer
+","এটি সর্বকালের সর্বোচ্চ বাণিজ্যিকভাবে সফল রক অ্যালবামের একটি; চৌদ্দ বছরেরও বেশি সময় ধরে ""বিলবোর্ড"" চার্টে তালিকাধীন থেকে, বিশ্বব্যাপী প্রায় ৪৫ মিলিয়ন কপি বিক্রির সাফল্য অর্জনের মধ্য দিয়ে ইউএস চার্টে ১ নম্বরে অবস্থান নিয়েছিল।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Doesn't it feel so good to be bad?
+<|im_start|>Answer
+","খারাপ হবার মজাটাই কেমন আলাদা, তাই না ?<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Each couple must determine if and when they will employ appropriate methods of family planning.
+<|im_start|>Answer
+",প্রত্যেক দম্পতির স্থির করা উচিত যে তারা কখন পরিবার পরিকল্পনার উপযুক্ত পদ্ধতি গ্রহণ করবেন আর আদৌ গ্রহণ করবেন কি না।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ newcastle
+<|im_start|>Answer
+",নিউক্যাসল<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Similar arguments are common in the social sciences, under the aegis of g t.
+<|im_start|>Answer
+",একই রকম যুক্তি সমাজ বিজ্ঞানেও গেম থিওরির(জি টি) একটা অংশ হিসেবে লক্ষ্য করা যায়।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ In one recent study carried out by icddr,b involving 6,000 individuals with symptoms of arsenicosis, it was found that melanosis is most common, occurring in approximately 94% cases, followed by keratosis in 68%, leukomelanosis in 39% and hyperkeratosis (severe degree of skin hardening) in 37% cases.
+<|im_start|>Answer
+","পরিসংখ্যান থেকে দেখা যায় যে, বাংলাদেশের ৬৪টি জেলার মধ্যে প্রায় ৫২টি জেলার ৫ কোটি মানুষ আর্সেনিকজনিত সমস্যার ঝুঁকির সম্মুখীন এবং এক হিসেবে দেশে আর্সেনিকজনিত রোগের ঘটনার সংখ্যা প্রায় ৪০ লক্ষ।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Erik Churchill, an American blogger living in Tunis wrote on August 5:
+<|im_start|>Answer
+",তিউনিসে বাসকারী মার্কিন ব্লগার এরিক চার্চিল গত ৫ই আগস্ট লিখেন:<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ romances
+<|im_start|>Answer
+",রমন্যাস<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ adoring
+<|im_start|>Answer
+",ভজমান<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ (1 Corinthians 10:24) Yes, ""love builds up"" others with unselfish words and acts.
+<|im_start|>Answer
+","(১ করিন্থীয় ১০:২৪) সত্যিই, নিঃস্বার্থ কথা ও কাজের মাধ্যমে 'প্রেম' অন্যদের ""গাঁথিয়া তুলে।""<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Wickrematunge found several local people who say they were not allowed to work for tour companies.
+<|im_start|>Answer
+",বিক্রমাতুঙ্গে স্থানীয় কিছু মানুষকে জিজ্ঞাসা করে জানতে পেরেছেন যে তাদের নতুন এইসব পর্যটন স্থাপনা গুলোতে কাজ করার অনুমতি দেয়া হয় না।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ It is located along the Muttrah Corniche coastal road (entering via the Muscat Gate Museum) between Port Sultan Qaboos and Al Bustan Beach.
+<|im_start|>Answer
+","শহরটি মুত্রাহ করনিচ উপকূলীয় রাস্তা বরারবর গঠিত (মাসকাট গেট জাদুঘর দিয়ে প্রবেশে), যা পোর্ট সুলতান কাবুস ও আল বুস্তান বিচ এর মধ্যে অবস্থিত।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ United Nations as an Organization There are currently 193 Members of the United Nations and its role touches every corner of the globe.
+<|im_start|>Answer
+",জাতিসংঘ সংগঠন বর্তমানে জাতিসংঘের সদস্য সংখ্যা ১৯২ এবং জাতিসংঘের কর্মপরিধি বিশ্বব্যাপি বিস্তৃত।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ After all of it @flipkart offered me a compensation of 50 Seriously that's how much you ""Value"" your customers!!
+<|im_start|>Answer
+","অবশেষে ফ্লিপকার্ট আমাকে ৫০ রুপি ক্ষতিপূরণের প্রস্তাব দিয়েছে। সত্যিই, ক্রেতাদের কীভাবে মূল্যায়ন করতে হয়, তার উদাহরণ এটা!<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Gruesome incident.
+<|im_start|>Answer
+",বীভৎস কান্ড<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ He says, ""Sorry to inform you, but your brother just died.""
+<|im_start|>Answer
+","সে বললো, দুঃসংবাদ আছে, আপনার ভাই এইমাত্র মারা গেছেন।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Buddha and Confucius - who knew everything there is to know - were unable to abolish famine, disease, poverty and war from the world, how could we expect to do so?
+<|im_start|>Answer
+","মোহাম্মদ, যিশু, বুদ্ধ বা কনফুসিয়াসের মত সর্বজ্ঞ মহাপুরুষরাই যখন দুর্ভিক্ষ, মহামারী, দারিদ্র্য এবং যুদ্ধ দূর করতে পারেননি, তখন আমাদের মত সাধারণ মানুষের সে চেষ্টা করা ধৃষ্টতা ছাড়া আর কী হতে পারে!<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Confidential Matters, 6/15
+<|im_start|>Answer
+","একাকিত্ব, ৩/১৫<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ ""He is doing according to his own will among the army of the heavens and the inhabitants of the earth.
+<|im_start|>Answer
+","""তিনি স্বর্গীয় বাহিনীর ও পৃথিবীনিবাসীদের মধ্যে আপন ইচ্ছানুসারে কার্য্য করেন; এবং এমন কেহ নাই যে, তাঁহার হস্ত থামাইয়া দিবে, কিম্বা তাঁহাকে বলিবে, তুমি কি করিতেছ?""<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ (Read John 17:3.)
+<|im_start|>Answer
+","(পড়ুন, যোহন ১৭:৩.)<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Jesus highly praised him but stated that John would not be included in the heavenly Kingdom.
+<|im_start|>Answer
+","কিন্তু এরপর তিনি বলেছিলেন, যোহন স্বর্গে রাজা হিসেবে শাসন করবেন না।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ slimmer
+<|im_start|>Answer
+",অস্থূল<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ baryonic
+<|im_start|>Answer
+",অদৃশ্য এবং<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ I need something large enough for all my brothers!
+<|im_start|>Answer
+",আমার সব ভাইদের পিপাসা মুছে যাবে এতো টাকা আছে।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ implying
+<|im_start|>Answer
+",অর্থ রাখা<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Have You Left Jehovah?
+<|im_start|>Answer
+",আপনি কি যিহোবাকে ত্যাগ করেছেন?<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ belong
+<|im_start|>Answer
+",অন্তর্ভুক্ত হ<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Dabaka's culture is a blend of traditional festivals, food, music and theatres. The town offers a complex and diverse lifestyle with a variety of food, entertainment and night life, available in a form and abundance comparable to that in other towns of Assam.Doboka's history as a major trading centre has led to a diverse range of cultures, religions and cuisines coexisting in the Town. This unique blend of cultures is due to the migration of people from all over Assam since the British period. The majorty of the residents are Muslim with a notable number of Hindus. Dabaka's residents celebrate both Western and Indian festivals. Diwali, Holi, Eid, Christmas, Navratri, Good Friday, Bihu, Moharram, Durga Puja and Maha Shivratri are some of the popular festivals in the town
+<|im_start|>Answer
+","দবকার সংস্কৃতি ঐতিহ্যগত উৎসব, খাদ্য, সঙ্গীত এবং নাটমন্দিরের একটি মিশ্রণ। শহরটি আসামের অন্যান্য শহরের তুলনায় আকার ও প্রাচুর্যে নানাবিধ খাদ্য, বিনোদন ও রাত্রি জীবনের সঙ্গে একটি মিশ্রিত এবং বিচিত্র জীবনধারা উপলব্ধি করায়। দবকার ইতিহাস সংস্কৃতির, ধর্মের এবং খাবার সহাবস্থানের বিচিত্র পরিসীমা একটি গুরুত্বপূর্ণ বাণিজ্যকেন্দ্র হিসেবে শহরে নেতৃত্বাধীন হয়েছে। ব্রিটিশ আমল থেকেই আসামের সর্বাঙ্গ থেকে মানুষদের অভিপ্রয়াণের কারণে শহরটির সংস্কৃতির একটি অনন্য মিশ্রণ। হিন্দুদের একটি উল্লেখযোগ্য সংখ্যার সাথে এখানকার বাসিন্দাদের সংখ্যাগরিষ্ঠ মুসলমান । দবকার বাসিন্দারা উভয় পাশ্চাত্য এবং ভারতীয় উৎসব উদযাপন করে। শহরটির কিছু জনপ্রিয় উৎসবের মধ্যে রয়েছে দীপাবলী, দোল, ঈদ, বড়দিন, নবরাত্রি, গুড ফ্রাইডে, বিহু, মহরম, দুর্গাপূজা এবং মহাশিবরাত্রি।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ The 2013 matches of the 2011-13 ICC Intercontinental Cup offered Kumar further first-class experience, and he bettered his highest score in two consecutive matches. The first, against Kenya in March, saw Kumar score 89 which was the largest contribution to his team's score in the first innings, though Kenya went on to win the match. In August that year Kumar scored his maiden century, this time reaching 103 against the United Arab Emirates.
+<|im_start|>Answer
+","২০১১-১৩ আইসিসি ইন্টারকন্টিনেন্টাল কাপের ২০১৩ ম্যাচ কুমারকে আরও প্রথম শ্রেণির অভিজ্ঞতা দেয় এবং পরপর দুটি ম্যাচে তিনি তার সর্বোচ্চ রান অর্জন করেছিলেন। মার্চ মাসে কেনিয়ার বিপক্ষে প্রথমে কুমার ৮৯ রানের স্কোর করেছিল যা প্রথম ইনিংসে তার দলের স্কোরের সবচেয়ে বড় অবদান ছিল, যদিও ম্যাচটিতে কেনিয়া জয় পেয়েছিল। ওই বছর আগস্টে কুমার সংযুক্ত আরব আমিরাতের বিপক্ষে ১০৩ নিয়ে তার প্রথম সেঞ্চুরির দেখা পান।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ There's only one Irishman here.
+<|im_start|>Answer
+",মাত্র একজন আইরিশ ম্যানই আছে।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ ""Complete What You Started to Do""
+<|im_start|>Answer
+","'যাহা আরম্ভ করিয়াছ, সেই কার্য্য সমাপ্ত কর'<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Eventually they blow off the roofs of house, uproot the trees and plants, sweep away the mutilated corrugated tins and broken branches of trees.
+<|im_start|>Answer
+","পরিণামে ঘরের ছাদ উড়েযায়, গাছপালা সমূলে উৎপাটিত হয়, দুমড়ানো ঢেউটিনসমূহ উড়িয়ে নিয়ে যায় এবং গাছের ডালপালা ভেঙে ফেলে।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ start interactive interpreter
+<|im_start|>Answer
+",ইন্টারেক্টিভ ইন্টারপ্রেটার আরম্ভ করা হবে<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ I asked you to have faith.
+<|im_start|>Answer
+",আমি বিশ্বাস করতে বলেছেন.<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Those who followed Jehovah's direction had peace, happiness, and prosperity
+<|im_start|>Answer
+","যারা যিহোবার নির্দেশনা অনুসরণ করেছিল, তারা শান্তি, সুখ ও সমৃদ্ধি লাভ করেছিল<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Stare at
+<|im_start|>Answer
+",তাকাইয়া থাকা<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ At that moment, There was nothing longer than my prayers which I wanted to finish it but it was very long.
+<|im_start|>Answer
+",সে মুহুর্তে নামাজটাকে আমি শেষ করতে চাইছিলাম কিন্তু মনে হচ্ছিল তা অনেক লম্বা।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Khel Gaon Marg (flyover), near Malviya Nagar and Panchsheel
+<|im_start|>Answer
+",মালভূমি নগর ও পঞ্চশালের নিকটবর্তী খেল *গানন মার্গ (ফ্লাইওভার)<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Coleman noticed that the cogs were worn on the wrong side and suggested that the device was in fact powering the machine.
+<|im_start|>Answer
+","কলেমন লক্ষ্য করলেন যে, চাকার দাঁতগুলো ত্রুটিযুক্তভাবে লাগানো আছে এবং বলেন যে, যন্ত্রটি পৃথক কোনো ডিভাইসের মাধ্যমে শক্তি নিচ্ছে ।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Peter's hand was removed while he was alive?
+<|im_start|>Answer
+",পিটারের হাত কব্জি থেকে কাটা হয়েছে যখন সে বেঁচে ছিল?<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ His contract with Metro-Goldwyn-Mayer stipulated in 1932 that he would be paid $1 more than any other contract player at the studio.
+<|im_start|>Answer
+","১৯৩২ সালে মেট্রো-গোল্ডউইন-মেয়ার স্টুডিওর সাথে তার চুক্তি হয় যে তিনি অন্য যে কোন অভিনয়শিল্পীর থেকে ১ মার্কিন ডলার বেশি পারিশ্রমিক গ্রহণ করবেন, ফলে তিনি সেসময়ে বিশ্বের সর্বোচ্চ পারিশ্রমিক গ্রহীতা হয়ে ওঠেন।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ He empowered Moses to perform miracles, making him the first human on record to have such power.- Ex. 4:2-9, 21.
+<|im_start|>Answer
+","সত্যি বলতে কী, মোশিই হলেন বাইবেলে উল্লেখিত প্রথম মানুষ, যাকে এইরকম ক্ষমতা দেওয়া হয়েছিল।- যাত্রা. ৪:২-৯, ২১.<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Carter administration (1977-1981).
+<|im_start|>Answer
+",কার্টার প্রশাসন ১৯৭৭-১৯৮১.<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Some of us wanted to leave but the production manager would not allow us.
+<|im_start|>Answer
+",কেউ কেউ চলে যেতে চাইলে প্রোডাকশন ম্যানেজার বাধা দেন।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ On the occasion of this ritual, the groom's father organises another feast for the guests.
+<|im_start|>Answer
+",এই অনুষ্ঠান উপলক্ষে বরের পিতা একটি ভোজের আয়োজন করে।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ from complex to single-celled, from mold to mushrooms to flying bears.
+<|im_start|>Answer
+","জটিল থেকে নিয়ে একক কোষের, মোল্ড থেকে নিয়ে মাশরুম উধরন্ত ভাল্লুক অবধি।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ A noted academic and civil society activist, Professor Chowdhury has worked for over half a century in several national and international organisations for promotion of education, peace and inter-cultural understanding.
+<|im_start|>Answer
+","একজন প্রখ্যাত শিক্ষাবিদ ও সুশীল সমাজকর্মী কবীর চৌধুরী অর্ধ শতকেরও বেশি সময় ধরে বিভিন্ন জাতীয় ও আন্তর্জাতিক সংগঠনের সঙ্গে সম্পৃক্ত হয়ে শিক্ষা, শান্তি ও আন্তসাংস্কৃতিক সমঝোতার উন্নয়নে কাজ করেছেন।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Let us never become exasperated at our spiritual progress, but always continue to manifest reasonableness in dealing with our limitations.
+<|im_start|>Answer
+","তাই, আসুন আমরা যেন আমাদের আধ্যাত্মিক উন্নতিতে কখনও অতিরিক্ত আবেগপ্রবণ হয়ে না পড়ি বরং আমাদের সীমাবদ্ধতার মুখোমুখি হওয়ার সময় সবসময় যুক্তিবাদী হই।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ The monument is in a ruinous condition.
+<|im_start|>Answer
+",ইমারতটি এখন ভগ্ন দশায় রয়েছে।<|im_end|>,train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ Pi (/paɪ/; uppercase Π, lowercase π and ϖ; Greek: πι [pi]) is the sixteenth letter of the Greek alphabet, representing the sound [p]. In the system of Greek numerals it has a value of 80. It was derived from the Phoenician letter Pe . Letters that arose from pi include Cyrillic Pe (П, п), Coptic pi , and Gothic pairthra .
+<|im_start|>Answer
+","পী (বড়হাতের Π, ছোট হাতের অক্ষর π এবং ϖ) গ্রীক বর্ণমালার ষোলতম অক্ষর। গ্রীক সংখ্যাগুলির সিস্টেমে এটির মান ৮০। এটি ফোনিশিয়ান অক্ষর পে থেকে এসেছে। পী থেকে যে অক্ষরগুলো এসেছে সেগুলির মধ্যে রয়েছে সিরিলিক পে (П, п), কপটিক পী এবং গথিক পাইর্থ্রা ।<|im_end|>",train
+"<|im_start|>system
+You are an expert translator. Translate this english sentence into a proper bengali sentence. <|im_end|>
+<|im_start|>Question
+ I want Geetha.
+<|im_start|>Answer
+",আমি গীতাকে চাই।<|im_end|>,train

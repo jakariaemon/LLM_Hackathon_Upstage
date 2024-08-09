@@ -1,0 +1,883 @@
+prompt,completion,split
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How has the quality and popularity of Korean products evolved over the years?
+<|im_start|>Answer
+","The quality and popularity of Korean products have increased over the years, with examples like the Hyundai Genesis 2016 ranking among the top luxury cars and Samsung mobile phones being the most-sold mobile phones in the world.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of the character who is a skilled assassin and a member of the resistance group?
+<|im_start|>Answer
+",Alex<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are there any regulations for advertising certain types of products in Korea?
+<|im_start|>Answer
+","Yes, there are regulations for advertising certain types of products in Korea, such as alcohol, cigarettes, pharmaceuticals, and others.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the location of PwC's office in Wroclaw, Poland?
+<|im_start|>Answer
+",PwC Poland<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are foreigners allowed to acquire land in Korea?
+<|im_start|>Answer
+","Yes, foreigners are free to acquire land in Korea, except for certain areas and under certain conditions.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is global taxation applied to non-residents who have a place of business in Korea or earn income from real estate located in Korea?
+<|im_start|>Answer
+","Yes, global taxation is applied to non-residents who have a place of business in Korea or earn income from real estate located in Korea (excluding capital gains from the transfer of land or buildings).<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the three primary types of transfer pricing forms that taxpayers engaging in transactions with overseas related parties must submit when filing their tax returns under the LCITA?
+<|im_start|>Answer
+","The three primary types of transfer pricing forms are: 1. Declaration of Transfer Pricing Method for intercompany transactions involving tangible goods, intangibles and services, 2. Disclosure and justification of transfer pricing method, and 3. Summary of income statements of overseas related companies.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the total percentage of imports from the top four countries/regions in 2011?
+<|im_start|>Answer
+",Almost 50%<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the consequences for engaging in backdoor listing?
+<|im_start|>Answer
+",Engaging in backdoor listing in violation of the requirements can result in delisting and restrictions on selling new shares of the largest shareholder of the unlisted corporation.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of PwC's office in Tokyo, Japan?
+<|im_start|>Answer
+",PwC Japan<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Where does You-il Lee work?
+<|im_start|>Answer
+",You-il Lee works at the University of South Australia (UniSA) as an Associate Professor of International Business.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How did the return of conservative polity affect state-society relations in Korea?
+<|im_start|>Answer
+",The return of conservative polity was unwilling to take instructions from an organized civil society focused on correcting systemic malfunctioning and developed an affinity to some distinct civil society groups that were trying to siphon off state resources.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the focus of the 11.1 table?
+<|im_start|>Answer
+",The 11.1 table focuses on typical expenses of a corporate expense from Munich to Seoul.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How long are accounting records, excluding accounting slips, required to be retained?
+<|im_start|>Answer
+","Accounting records, excluding accounting slips, are normally required to be retained for 10 years.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the visa statuses that allow foreigners to do business in Korea like native Koreans?
+<|im_start|>Answer
+",F-5 (Permanent Residence) or F-6 (Foreign Spouse visa)<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What were the two pre-departure factors that might aid later adjustment for expatriates moving to Korea?
+<|im_start|>Answer
+","The two pre-departure factors that might aid later adjustment for expatriates moving to Korea are prior experience in Korea and/or Asia, and planning to stay for a relatively long time in Korea.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the focus of Chapter 5 in the book?
+<|im_start|>Answer
+",Chapter 5 analyzes FDI inflows into Korea and provides important managerial and policy implications.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What do foreign companies need to do if they plan to enter the Korean market?
+<|im_start|>Answer
+",Foreign companies need to comply with Korean regulations if they plan to enter the Korean market.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the current state of labor shortages in Korea?
+<|im_start|>Answer
+",There are shortages of manual and factory labor in some industries in Korea.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What documents are required to use Korean e-commerce platforms for exporting consumer goods?
+<|im_start|>Answer
+","The documents required include a business registration certificate, a bank statement, a seller registration form, and a confirmation letter.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the taxable value of imported goods for customs duties, individual excise tax, and liquor tax?
+<|im_start|>Answer
+",The total amount of the transaction value<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the arm's-length principle and how is it used in determining the proper level of prices charged in transactions between Korean resident corporations and overseas related parties?
+<|im_start|>Answer
+","The arm's-length principle is a key concept in transfer pricing regulations, which emphasizes that the prices charged in transactions between related parties should be the same as those that would be charged in a transaction between unrelated parties. In the context of Korean transfer pricing regulations, the arm's-length price is defined as a price established or that can be expected to be established in a normal transaction between independent third parties having no special relationship. The arm's-length principle is used to ensure that the prices charged in transactions between Korean resident corporations and overseas related parties are fair and not manipulated to artificially reduce taxable income.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who are the consumers that often engage in jikgu purchase?
+<|im_start|>Answer
+",Consumers who enjoy a jikgu purchase often seek unique and niche products that are unavailable in Korea.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the gender distribution of the workforce in Korea?
+<|im_start|>Answer
+",Males accounted for 58 percent and females accounted for about 42 percent of the workforce in Korea in 2011.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the meaning of ""jikgu"" in the context of the provided information?
+<|im_start|>Answer
+","""Jikgu"" in the provided information refers to direct purchases from China by Korean consumers.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What was the name of the favorite brand of Chinese travelers in 2017?
+<|im_start|>Answer
+",3CE was the favorite brand of Chinese travelers in 2017.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How has South Korea's economy evolved since the 1960s?
+<|im_start|>Answer
+","South Korea has achieved tremendous and rapid economic growth, becoming the 11th-largest economy in the world with a GDP per capita of $38,260.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What information is provided in the 12.2 table?
+<|im_start|>Answer
+",The 12.2 table provides the number of SMEs in Korea.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the role of UNCTAD in technology transfer?
+<|im_start|>Answer
+",The role of UNCTAD in technology transfer is discussed on page 81.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the requirements for importing items into Korea?
+<|im_start|>Answer
+","All importers must have a general or special license, which is administered by government agencies or relevant industrial associations after screenings. Each specific license covers only one transaction and is necessary to secure credit letters.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are some challenges for both Korean and foreign companies in the Korean market?
+<|im_start|>Answer
+",The highly dynamic nature of the Korean market offers opportunity and major challenges for foreign companies because it is difficult for foreign companies to respond swiftly to changing customer demands.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the main export items of Korea from 1970 to 2009?
+<|im_start|>Answer
+","According to Table 12.1, the main export items of Korea from 1970 to 2009 have shifted from textiles and plywood in the 1970s and 1980s to semiconductors, mobile phones, LCD screens, automobiles, and ships in the 2000s.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who are the top bidders of inbound M&As in South Korea by value?
+<|im_start|>Answer
+",The top bidders of inbound M&As in South Korea by value are not provided in the figures.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How is liquidation income taxed for Korea branches of foreign corporations in South Korea?
+<|im_start|>Answer
+",Liquidation income of Korea branches of foreign corporations is not subject to tax.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What factors influence export behavior?
+<|im_start|>Answer
+","Export behavior is influenced by industry characteristics such as trade barriers, government laws and regulations, industry concentration, export intensity, export orientation, import protection, industry instability, and technological intensity.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How did the Korean government guide or regulate private industries?
+<|im_start|>Answer
+","Through the omnipresence of the state in guiding or even regulating private industries, major financial resources and coveted public infrastructure projects were channelled to major family-owned chaebol.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the least cost demanding and least risky method for smaller businesses?
+<|im_start|>Answer
+",Adding shipping options to Korea to an already existing online shop is the least cost demanding and least risky method for smaller businesses.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of the journal that published the article ""Typology of Online Shoppers""?
+<|im_start|>Answer
+","The journal that published the article ""Typology of Online Shoppers"" is the Journal of Consumer Marketing.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the location of PwC's office in Moscow, Russia?
+<|im_start|>Answer
+",PwC Russia<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What were the priorities and steps prescribed by the IMF for Korea to take during the financial crisis?
+<|im_start|>Answer
+","The IMF prescribed restructuring the financial sectors, mostly banks and the chaebol, as priorities for Korea during the financial crisis.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What undermined investment in the financial sector in Korea?
+<|im_start|>Answer
+",The global financial crisis in 2008 undermined investment in this sector.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the main reason for the increase in South Korea's outbound M&As?
+<|im_start|>Answer
+","The increase in South Korea's outbound M&As is due to the active government support of the expansion of outbound M&As, which has occurred since 2014.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How much was redirected to recapitalize the banking sector under Kim Dae-Jung's administration?
+<|im_start|>Answer
+",156.7 trillion won<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How did the Asian financial crisis impact Korea's economic policies?
+<|im_start|>Answer
+","The crisis led to a shift in Korea's attitude towards foreign competition and provided opportunities for major reforms, including opening the domestic market to foreign products, restructuring financial institutions, and curbing the power of chaebols.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How often does a book have to be closed according to Korean Commercial Law?
+<|im_start|>Answer
+","According to Korean Commercial Law, a book must be closed at least once a year.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can a qualified foreign invested corporation be exempt from customs duties, individual excise tax, and VAT on capital goods imported or contributed in-kind by a foreign investor?
+<|im_start|>Answer
+","Yes, under the Special Tax Treatment Control Law (STTCL), a qualified foreign invested corporation may be exempt from customs duties, individual excise tax, and VAT on capital goods imported or contributed in-kind by a foreign investor.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How can companies leverage technology to improve their market access?
+<|im_start|>Answer
+","Companies can leverage technology to improve their market access by using digital marketing strategies, e-commerce platforms, and data analytics tools to better understand customer behavior and preferences. Additionally, companies can use technology to streamline their supply chain and distribution processes, making it easier to reach customers in new markets.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How can foreigners do business in Korea?
+<|im_start|>Answer
+","Foreigners can do business in Korea by establishing a company, branch office, liaison office, or representative office. They can also participate in joint ventures or acquire existing Korean companies.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who is the author of ""The Future of Freedom""?
+<|im_start|>Answer
+",F.A. Hayek<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What was another motivational factor for expatriates moving to Korea?
+<|im_start|>Answer
+",Expatriates having a Korean spouse prior to departure was another motivational factor for moving to Korea.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the circumstances that would make two companies related parties under the LCITA?
+<|im_start|>Answer
+","According to the LCITA, two companies are considered related parties if one of the following circumstances applies:<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the retirement benefits options for employers in Korea?
+<|im_start|>Answer
+",Employers in Korea have two options for paying retirement benefits to retiring workers: the retirement allowance system or the retirement pension plan.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the Emissions Trading Scheme (ETS) in South Korea and when did it become mandatory for certain installations and firms?
+<|im_start|>Answer
+","The Emissions Trading Scheme (ETS) in South Korea is a cap-and-trade system that aims to reduce greenhouse gas emissions. From 2015, participation in the ETS became mandatory for installations emitting 25,000 tonnes of carbon dioxide and firms emitting 125,000 tonnes of carbon dioxide annually. Smaller entities continue with the TMS (Tradeable Monitoring and Reporting System).<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How do Korean companies ensure a strong alignment between top-level leadership and organizational behavior?
+<|im_start|>Answer
+",Korean companies ensure a strong alignment between top-level leadership and organizational behavior by emphasizing personal values of business leaders in training programs and incorporating them in operating guidelines for staff members' activities.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Why is it recommended for foreign companies to use a Korean advertising agency?
+<|im_start|>Answer
+",It is recommended for foreign companies to use a Korean advertising agency to reduce the risk of non-compliance with regulations and Korean particularities in advertising campaigns.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the goal of MNEs in Korea, as demonstrated by the proliferation of inbound FDI?
+<|im_start|>Answer
+","The goal of MNEs in Korea, as demonstrated by the proliferation of inbound FDI, is to achieve national responsiveness and make successful local market penetration.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How are foreign ownership ceilings and additional criteria released and updated?
+<|im_start|>Answer
+","Foreign ownership ceilings and additional criteria required by relevant laws and authorities are released and updated by the Ministry of Knowledge and Economy through its circular, Integrated Public Notice of Foreign Investment.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of the study that found that managerial autonomy is important for foreign-owned R&D labs in Korea?
+<|im_start|>Answer
+",Hemmert et al. (2015).<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are Fabian Jintae Froese's research interests?
+<|im_start|>Answer
+",Fabian Jintae Froese's research interests lie in international human resource management and cross-cultural management.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the strongest growth-enabling factor for foreign-owned R&D labs in Korea?
+<|im_start|>Answer
+",Managerial autonomy of R&D labs from headquarters in their home countries.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How can most foreign companies distinguish themselves in the Korean market?
+<|im_start|>Answer
+",Most foreign companies distinguish themselves by providing high-quality products in the Korean market.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are taxation materials, such as tax information and tax consultation cases for foreigners, available in English on the National Tax Service website?
+<|im_start|>Answer
+","Yes, taxation materials, such as tax information and tax consultation cases for foreigners, are available in English on the National Tax Service website.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the new term in Korean that refers to value consumption?
+<|im_start|>Answer
+",The new term in Korean that refers to value consumption is Gachi Sobi.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the advertising expenditure in South Korea by medium?
+<|im_start|>Answer
+",The advertising expenditure in South Korea by medium is not provided in the figures.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are some potential solutions to the challenges of managing foreign workers in Korea?
+<|im_start|>Answer
+","Social network systems such as mentoring programs between senior and new foreign workers, as well as cyber communities among foreigners, could help them accelerate adjustment. Cross-cultural training (CCT) programs could promote the cultural adjustment of foreign workers in Korea.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of the character who is a skilled forger and a member of the resistance group?
+<|im_start|>Answer
+",Rebecca<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the tax incentives for establishing a new banking or insurance business in a financial hub area?
+<|im_start|>Answer
+","If the minimum capital requirements of KRW2 billion and 10 or more full-time employees are satisfied, corporate or individual income taxes on taxable income are 100% exempt for the first three years and reduced by 50% for the two subsequent years.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the source for the information on GDP growth in South Korea?
+<|im_start|>Answer
+",World Bank.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How many national labor federations are there in Korea?
+<|im_start|>Answer
+",There are three national labor federations in Korea.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of the survey that provides data on world values from 1981 to 2008?
+<|im_start|>Answer
+",The name of the survey is the World Values Survey.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the balance sheet approach to expatriate compensation?
+<|im_start|>Answer
+","The balance sheet approach to expatriate compensation involves offering an equivalent salary compared to a referent group, which is a common practice among multinational enterprises.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How does the story end?
+<|im_start|>Answer
+","The story ends with the character deciding to stay in the forest and protect it, ensuring that the balance of nature is maintained and the cycle of life continues.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is there a taxable event at grant or on the vesting date of stock?
+<|im_start|>Answer
+","No, there is no taxable event at grant or on the vesting date of stock.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How many provinces and cities does Korea have?
+<|im_start|>Answer
+","Korea is comprised of nine provinces and six main cities - Seoul, Busan, Gwangju, Daejon, Daegu, and Incheon - which have provincial status.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are some challenges that expatriate spouses may face in Korea?
+<|im_start|>Answer
+","Expatriate spouses in Korea may face difficulties in adapting to the culture as outsiders, forming close friendships with Koreans, and finding employment due to language and visa issues.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of PwC's office in Toronto, Canada?
+<|im_start|>Answer
+",PwC Canada<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How do Korean business leaders set ambitious goals for their companies and employees?
+<|im_start|>Answer
+",Korean business leaders set highly ambitious and specific goals for their companies and employees in order to motivate them strongly. These goals are not only set for organizational units but also for individual employees.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the top sectors of outbound M&As in South Korea by value?
+<|im_start|>Answer
+",The top sectors of outbound M&As in South Korea by value are not provided in the figures.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the title of the article ""Political economy of Korean development after liberation: A critical reflection""?
+<|im_start|>Answer
+",Political economy of Korean development after liberation: A critical reflection<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the potential impact of mismanagement in reforming PE&SE on Korea's business environment?
+<|im_start|>Answer
+","Mismanagement in reforming PE&SE has the potential to adversely impact Korea's business environment, which has been largely business-friendly.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the main aim of the 'Creative Economy' initiative introduced by the Korean government in 2013?
+<|im_start|>Answer
+",The main aim of the 'Creative Economy' initiative is to considerably boost the start-up industry in Korea and shift the balance of economic power from the 'chaebols' to SMEs.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who is the author of ""Doing Business in Korea""?
+<|im_start|>Answer
+",Fabian J. Froese<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the main determinants of internet standards adoption, as demonstrated by the case of South Korea?
+<|im_start|>Answer
+","According to Hovav, Hemmert, and Kim (2011), the main determinants of internet standards adoption in South Korea include government policies, market demand, and technological capabilities.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are utility costs paid by an employer taxable to the employee?
+<|im_start|>Answer
+","Yes, these are taxable.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the Worldbank's website for information on South Korea?
+<|im_start|>Answer
+",The Worldbank's website for information on South Korea is www.worldbank.org/en/country/korea.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are some popular retailers in the Korean market?
+<|im_start|>Answer
+","Some popular retailers in the Korean market include Costco, E-Mart Traders, and TV home shopping companies such as CJ and Lotte.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ When was moonROK founded and by whom?
+<|im_start|>Answer
+",moonROK was founded in 2014 by US citizen Hannah Waitt.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the consideration amount for a qualified foreign Non-resident Income Taxation technician/engineer providing services in Korea under an engineering technology inducement agreement?
+<|im_start|>Answer
+","The consideration amount is US$300,000 or more.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the meaning of FBA in the context of international business?
+<|im_start|>Answer
+",FBA refers to the fair transactions in franchise business act.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Where is PwC's office located in Frankfurt, Germany?
+<|im_start|>Answer
+",PwC Germany<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the location of PwC's office in San Francisco, USA?
+<|im_start|>Answer
+",PwC US<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the appendix of the report about?
+<|im_start|>Answer
+","The appendix contains withholding tax rates on dividends, interest, and royalties.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Where are Korea's top 60 start-ups and K-Global 300 start-ups located?
+<|im_start|>Answer
+",Korea's top 60 start-ups and K-Global 300 start-ups are all located in the Pangyo Startup Campus.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the difference between a resident corporation and a nonresident corporation in terms of taxation in Korea?
+<|im_start|>Answer
+","A resident corporation is a domestic corporation with its head, main office, or place of effective management in Korea, taxed on its worldwide income. On the other hand, a nonresident corporation is a foreign corporation which earns income from domestic sources in Korea, taxed only on income derived from Korea.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is Korea's focus in terms of products and industries?
+<|im_start|>Answer
+","Korea's focus is on higher-quality, value-added products and the high technology sector.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ When were hedge funds introduced in Korea?
+<|im_start|>Answer
+",Hedge funds were introduced in Korea for the first time since November 2011.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the characteristics of Yongo ties?
+<|im_start|>Answer
+","Yongo ties are immutable and irreversible, pre-defined by birth, and cannot be chosen (with the exception of an alma mater). They are maintained for life, homogeneous, closed, and exclusive. Bridging between different Yongo networks is very unusual, but bridging within a particular Yongo network works well.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the deduction limit for entertainment expenses in excess of the tax limit?
+<|im_start|>Answer
+",They are not deductible.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the total value of outbound greenfield projects in the world?
+<|im_start|>Answer
+",Not provided in the given information.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What other materials are necessary for computing the adequate prices?
+<|im_start|>Answer
+",Other data necessary for computing the adequate prices are specified in the provided information.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the main focus of the provided information?
+<|im_start|>Answer
+","The main focus of the provided information is on the concept of ""Age of Consent"" and its relevance to the case of an 18-year-old man who had consensual sex with a 15-year-old girl.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What percentage of South Korea's GDP is spent on research?
+<|im_start|>Answer
+",4.3%<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What subnational regions are covered in Table 5.12?
+<|im_start|>Answer
+",Table 5.12 examines Inbound FDI into Korea for establishing offices by subnational region.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the total number of inbound FDI notifications to Korea from 2005 to 2017?
+<|im_start|>Answer
+","The total number of inbound FDI notifications to Korea from 2005 to 2017 is 39,423.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What was the result of the close partnership between the Korean state and businesses?
+<|im_start|>Answer
+",The close partnership led to informal and non-transparent links in the state's dealings with businesses.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the investment thresholds for foreigners without F-5 or F-6 visas to start a corporation or sole proprietorship in Korea?
+<|im_start|>Answer
+",KRW100 million to start a corporation or KRW300 million for sole proprietorship.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the standard accounting period for businesses in Korea?
+<|im_start|>Answer
+",The standard accounting period for businesses in Korea is typically from 1 January to 31 December.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ In what industries do SIEs often find employment in Korea?
+<|im_start|>Answer
+","SIEs often find employment in industries such as investment banking, IT, engineering, R&D, and education, as their skills and knowledge can be transferred across national boundaries.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is Korea densely populated?
+<|im_start|>Answer
+","Yes, Korea is one of the most densely populated countries in the world.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the most important bilateral trade agreement ever undertaken by Korea?
+<|im_start|>Answer
+",Korea-US FTA<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the key features of marketing management identified by Doyle (2003)?
+<|im_start|>Answer
+",The selection of the target market and the design of the marketing mix.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is a key success factor for foreign companies with major R&D activities in Korea?
+<|im_start|>Answer
+",Close collaboration with Korean partners and customers and developing customized solutions for the Korean market.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the largest chaebols in South Korea?
+<|im_start|>Answer
+",Samsung and Hyundai<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the title of the article by Paul Krugman discussing the Asian financial crisis?
+<|im_start|>Answer
+","""Saving Asia: It's time to get radical.""<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the most common types of tax holidays in Korea?
+<|im_start|>Answer
+","Under the Special Tax Treatment Control Law (STTCL), the most common types of tax holidays in Korea are tax reductions or exemptions for foreign-invested corporations as well as certain small & medium-sized enterprises (SMEs) and tax credit to promote research and development activities (R&D tax credit).<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What types of capital account transactions require prior permission in Korea?
+<|im_start|>Answer
+","Transactions on the negative list such as loans, guarantees, financial derivatives and overseas portfolio investment require prior permission in certain cases.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Where is PwC's office located in Cleveland, USA?
+<|im_start|>Answer
+",PwC US<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the sixth section of the report about?
+<|im_start|>Answer
+","The sixth section is about labor relations and social security in Korea, which starts on page 42.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How have Korean consumers' sophistication and demand for quality evolved along with the quality and popularity of Korean products?
+<|im_start|>Answer
+","As the quality and popularity of Korean products increase, the level of Korean consumers' sophistication and demand for quality also increase.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What event in 2016 led to the fall of Park Geun-Hye's presidency?
+<|im_start|>Answer
+",The 'candlelight vigils' were a significant factor in bringing down Park Geun-Hye's presidency.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the main challenges faced by expatriates in Korea?
+<|im_start|>Answer
+","Expatriates in Korea face challenges such as long working hours, the expectation of loyalty and commitment through long hours and extra work during company crises, the Korean after-work dinner/drinking culture of hoesik, and the bbali-bbali culture of doing things quickly and last minute. These challenges are rooted in Confucianism and are often alien to Western cultural norms.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are some of the benefits offered by Seoul GSC to participating companies?
+<|im_start|>Answer
+","Seoul GSC offers a number of benefits to participating companies, including 24/7 office with makerspace for hardware developers, a voucher for expenses and space services worth KRW10 million, business development workshops, peer-mentoring, in-house expert liaisons, and a two-week all-expenses-paid trip to China or Vietnam to learn about and network in the market.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What tax benefits do foreigners receive in Korea?
+<|im_start|>Answer
+","Foreigners from certain countries and under certain conditions can receive two years' tax-free income in Korea. After that period, the tax rate is lower than in most European countries, with a maximum tax rate of 20.9% for foreigners.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What was the impact of the IMF rescue package on Korea's economic policies?
+<|im_start|>Answer
+","The IMF rescue package imposed conditions on Korea, including opening its industry to foreign competition and implementing financial and trade reforms.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the chapters in Part III?
+<|im_start|>Answer
+","The chapters in Part III are: Marketing in Korea, Human resource management in Korea, Establishing a start-up business in Korea as a foreign entrepreneur.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the investment incentives available for local tax exemption in accordance with local ordinances?
+<|im_start|>Answer
+","Tax credits are generally available for longer exemption periods (up to 15 years) in accordance with their local ordinances for qualified investment in facilities for productivity enhancement, safety, job-creating investments, etc.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the Uppsala process theory of internationalization?
+<|im_start|>Answer
+","The Uppsala process theory of internationalization is a model that explains the sequence of entry modes chosen by multinational enterprises (MNEs) when entering foreign markets. It suggests that MNEs start with less risky entry modes, such as licensing, exporting, or using local distributors or sales agents, and gradually increase their resource commitment by choosing more controlling and ownership-based entry modes, such as FDI, as they accumulate knowledge and experience about the foreign markets.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How did the informal network create a shadow world in Korea's business environment?
+<|im_start|>Answer
+","The informal network created a shadow world with non-transparent, and often corrupt, business deals taking center stage.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the context of the provided information?
+<|im_start|>Answer
+",The context of the provided information is not specified.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What law prohibits gender discrimination against any worker?
+<|im_start|>Answer
+",The Korean Gender Employment Equality Law prohibits gender discrimination against any worker.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the challenges for foreign firms exporting to Korea?
+<|im_start|>Answer
+","Foreign firms exporting to Korea may face challenges such as flexible contracts, hierarchical relationships in buyer-supplier relationships, and tightly controlled distribution channels by chaebols.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What problems did DHL Korea face with the previous seniority-based system?
+<|im_start|>Answer
+",Difficulties in improving employee competencies and performance<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are there any exceptions to the anti-tax haven rules?
+<|im_start|>Answer
+","Yes, if a company incorporated in such a tax haven country actively engages in business operations through an office, shop, or a factory, then the anti-tax haven rules will not apply.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the main argument of the chapter regarding the network view of the Korean society and business environment?
+<|im_start|>Answer
+",The main argument of the chapter is that the network view of the Korean society and business environment can supersede the low-trust and collectivist society paradigm and bring new phenomena to the surface that advance the current knowledge on Korea's cultural environment.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the title of the book written by Holcombe that covers the history of East Asia from the origins of civilization to the twenty-first century?
+<|im_start|>Answer
+",A history of East Asia<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the percentage of inbound FDI into Korea with full ownership from Asia-Pacific for the period 2005-2009?
+<|im_start|>Answer
+",61.9%<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the economic participation rate in Korea for the population aged 15-64 years?
+<|im_start|>Answer
+",The economic participation rate for the population aged 15-64 years in Korea was 63.8% in 2011.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can penalties be waived for transfer pricing adjustments?
+<|im_start|>Answer
+","Yes, penalties for transfer pricing adjustments can be waived if the results of competent authority procedures demonstrate that the taxpayer was not liable for the difference between the correct tax base and the tax base actually reported.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the taxable income for a branch office in Korea?
+<|im_start|>Answer
+",The taxable income for a branch office in Korea is income attributable to the branch operation.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ When was the information on GDP per capita in South Korea accessed?
+<|im_start|>Answer
+",15 March 2019.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the percentage of Korean companies with effective labor-management committees according to Kim and Oh (2018)?
+<|im_start|>Answer
+","According to Kim and Oh (2018), companies with effective labor-management committees (or the labor-management committees that function properly) only comprised 50% of all Korean companies.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the general criterion for determining if an agent of a foreign corporation is considered a permanent establishment (PE) in Korea?
+<|im_start|>Answer
+",An agent of a foreign corporation who habitually exercises authority to conclude contracts or maintains a stock of goods or merchandise in Korea belonging to a foreign corporation from which the agent regularly fills orders on behalf of the foreign corporation will be deemed to be a PE of the foreign corporation in Korea.<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How did recruitment and retention change after 1987 in Korea?
+<|im_start|>Answer
+","More rational process and active recruitment of new graduates from external recruitment on the market, with more demand for flexible labor market.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the location of PwC's office in Amsterdam, Netherlands?
+<|im_start|>Answer
+",PwC Netherlands<|im_end|>,train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the impact of the bbali-bbali mindset on the Korean business culture?
+<|im_start|>Answer
+","The bbali-bbali mindset has a significant impact on the Korean business culture, as it encourages flexibility and adaptability in meeting customer needs. This characteristic sets the Korean market apart from others and can have both positive and negative implications for exporters.<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the name of the article that discusses the 4 P classification of the marketing mix?
+<|im_start|>Answer
+","The article discussing the 4 P classification of the marketing mix is titled ""The 4 P classification of the marketing mix revisited.""<|im_end|>",train
+"<|im_start|>system
+You are an bunisee law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ In which Asian country is the most liquid stock market?
+<|im_start|>Answer
+",Korea<|im_end|>,train

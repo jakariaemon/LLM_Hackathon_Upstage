@@ -1,0 +1,409 @@
+prompt,completion,split
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How long does the examination process usually take in Japan?
+<|im_start|>Answer
+",The examination process usually takes approximately six months.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the enterprise tax on a pro forma basis for corporations with 100 million yen or less paid-in capital?
+<|im_start|>Answer
+",Exemption applies.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What documents are required for certification regarding equity participants in Japan?
+<|im_start|>Answer
+","For certification regarding equity participants in Japan, registration certificates for companies that will become equity participants and seal certificates for individuals/companies that will become equity participants are required.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can employers require part-time workers to specify whether they will be eligible for pay increases, retirement allowances, and/or bonuses?
+<|im_start|>Answer
+","Yes, in the case of part-time workers, the employer must in addition specify in writing whether they will be eligible for pay increases, retirement allowances, and/or bonuses.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the timeframe for filing the notification of acquisition of insured status under health/employees' pension insurance?
+<|im_start|>Answer
+",File within 5 days of hiring employees.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the main items that have different handling in the taxation system of consumption tax depending on the amount of capital?
+<|im_start|>Answer
+",The main items that have different handling in the taxation system of consumption tax depending on the amount of capital are tax liability and the conditions for exemption from the consumption tax.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How is the amount of income used as the tax base for corporate taxes on income determined in Japan?
+<|im_start|>Answer
+",The amount of income used as the tax base for corporate taxes on income is determined by making the necessary tax adjustments to corporate profits calculated using accounting standards generally accepted as fair and appropriate.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the deadline for a permanent resident or a foreign resident of Japan younger than 16 years old to apply to update the period of validity of their resident card?
+<|im_start|>Answer
+",A permanent resident or a foreign resident of Japan younger than 16 years old whose resident card expires on his/her 16th birthday is required to apply to renew the period of validity of the resident card before it expires.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How are world-famous trademarks protected in Japan?
+<|im_start|>Answer
+",Famous or known trademarks without registration are protected exceptionally if they are famous or known not only in Japan but also in foreign countries.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the difference between contracting and worker dispatching?
+<|im_start|>Answer
+","In contracting, workers employed by one company are subject to the independent personnel administration, directions, and orders of company A, though actually performing work at another company. In worker dispatching, temporary workers are placed at companies to perform various duties.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ When must Individual Inhabitant Tax returns be filed, and are there any exceptions for those who have already submitted self-assessed income tax returns?
+<|im_start|>Answer
+","Individual Inhabitant Tax returns must be filed by March 15, but persons submitting self-assessed income tax returns do not have to file again for Individual Inhabitant Tax.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the minimum break an employer must give an employee who works six hours?
+<|im_start|>Answer
+",A 45-minute break.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who must have Employment Insurance in Japan?
+<|im_start|>Answer
+",All workers whose prescribed working hours are not less than 20 hours per week must have Employment Insurance in Japan.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can the use of a trademark on a website be considered ""use"" under Japan's Trademark Law?
+<|im_start|>Answer
+","If the trademark is used on the website obviously for the purpose of the sales in Japan, it could be authorized that it is the use of the trademark. However, if the trademark is used on the website for the purpose of the sales in foreign countries, there is a doubt whether it is the use of the trademark under Japan's Trademark Law or not.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Where can I find more information about the status of residence in Japan?
+<|im_start|>Answer
+","You can find more information about the status of residence in Japan in the Immigration Bureau, Ministry of Justice's ""Immigration control IMMIGRATION 2015"" publication, specifically under the section titled ""List of Status of Residence.""<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the related design system in Japan's Design Law?
+<|im_start|>Answer
+",The related design system in Japan's Design Law provides protection for similar designs related to a certain object filed in a certain period.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How can foreign entrepreneurs apply for the ""Program to increase foreign entrepreneurs""?
+<|im_start|>Answer
+","Foreign entrepreneurs can apply for the ""Program to increase foreign entrepreneurs"" by submitting their business plan to the designated autonomous bodies, such as the Tokyo Metropolitan Government, Fukuoka city, or Niigata city, and having their plan approved.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is a bank capital custody certificate required for all joint-stock corporations?
+<|im_start|>Answer
+","No, it is only required in cases of incorporation with outside offering.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How long do foreign entrepreneurs have to satisfy the usual requirements for a ""Business manager"" status under the ""Program to increase foreign entrepreneurs""?
+<|im_start|>Answer
+","Foreign entrepreneurs have 6 months to satisfy the usual requirements for a ""Business manager"" status under the ""Program to increase foreign entrepreneurs.""<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can an employee with a child of preschool age request to nurse his/her sick or injured child?
+<|im_start|>Answer
+","Yes, if an employee with a child of preschool age requests to nurse his/her sick or injured child, he/she may take a leave of absence of up to five days per year (or up to 10 days per year if he/she has two or more children of preschool age).<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are there additional points given for certain higher degrees?
+<|im_start|>Answer
+","Yes, additional points are given to certain higher degrees (such as Master of Business Administration) on top of the points for an academic degree.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the difference between absolute and relative matters in the articles of incorporation?
+<|im_start|>Answer
+","Absolute matters must be stated for the articles of incorporation to be valid, while relative matters do not have legal effect unless stated.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the reduced corporate tax rate for corporations with 100 million yen or less paid-in capital?
+<|im_start|>Answer
+",The reduced tax rate of 15% applies for the part of annual taxable income of 8 million yen or less.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the maximum number of hours an employee can work per day in principle?
+<|im_start|>Answer
+",Eight hours per day.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the annuity for maintaining design rights in Japan for years 4 through 20?
+<|im_start|>Answer
+","The annuity for maintaining design rights in Japan for years 4 through 20 is 16,900 yen per year.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the process for notarizing the joint-stock corporation's articles of incorporation?
+<|im_start|>Answer
+",The articles of incorporation must be notarized by a Japanese notary public.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Where do you apply for registration of the dissolution of the subsidiary company and the appointment of a liquidator?
+<|im_start|>Answer
+",You apply to the Legal Affairs Bureau.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are there any restrictions on the locations in which costs and expenses deductible from Japan-sourced taxable income can be incurred by foreign corporations?
+<|im_start|>Answer
+",Foreign corporations face no restrictions on the locations in which costs and expenses deductible from Japan-sourced taxable income may be incurred.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is the introduction of a yearly wage system common in Japanese companies?
+<|im_start|>Answer
+","Whether or not a yearly wage system is introduced or extra wages are paid for overtime work is irrelevant, and the system is rarely adopted in practice.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the requirement for compiling work rules and submitting a copy to the local Labor Standards Inspection Office?
+<|im_start|>Answer
+",You need to compile work rules (employee handbook) and submit a copy to the local Labor Standards Inspection Office if you have 10 or more employees.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the rate of increase in wages for employees who work late at night on statutory days off?
+<|im_start|>Answer
+",60%<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who is obligated to participate in health insurance in Japan?
+<|im_start|>Answer
+",All incorporated companies without exception and sole proprietorships with five or more regular employees are generally obliged to take part in the insurance.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ When was the Industrial Design Law revised in Japan?
+<|im_start|>Answer
+",The Industrial Design Law was revised in 2014 in Japan.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the purpose of stating absolute matters in the articles of incorporation?
+<|im_start|>Answer
+",The purpose of stating absolute matters in the articles of incorporation is to ensure that the articles are valid and legally effective.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What happens if a reply to the rejection notice is not submitted in Japan?
+<|im_start|>Answer
+","If a reply to the rejection notice is not submitted, the design registration will be rejected.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How are unregistered trademarks and designs protected in Japan?
+<|im_start|>Answer
+","Unregistered trademarks and designs in Japan are protected from unauthorized use by the Unfair Competition Prevention Law. If a trademark or design becomes generally known or famous in Japan after use, it is protected. Additionally, forms of new goods are protected for up to three years from the date of first sale in Japan, even without registration.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is termination of an employment contract by the payment of a certain amount of money recognized as a matter of course by law in Japan?
+<|im_start|>Answer
+","No, it is not recognized as a matter of course by law (except where an amicable settlement is reached between the parties concerned).<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What notifications are required to be filed with the national tax authorities after incorporating a subsidiary corporation in Japan?
+<|im_start|>Answer
+","After incorporating a subsidiary corporation in Japan, the following notifications are required to be filed with the national tax authorities: Notification of incorporation, Notification of acquisition of status of foreign ordinary corporation, Notification of establishment of an office paying salaries, and Application for approval of filing a blue form tax returns.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can this publication be reproduced without permission?
+<|im_start|>Answer
+","No, reproduction of this publication requires prior permission from JETRO.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can increased rates of wages occur for excess hours in the deemed working hour system?
+<|im_start|>Answer
+","Yes, increased rates of wages will occur for the excess hours if the deemed working hours exceed statutory working hours.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can relative matters in Kabushiki-Kaisha's articles of incorporation be changed or amended later?
+<|im_start|>Answer
+","Yes, relative matters in Kabushiki-Kaisha's articles of incorporation can be changed or amended later, as long as they do not contravene the Companies Act.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ When will patent attorneys be able to represent clients in court in Japan?
+<|im_start|>Answer
+","Starting in 2004, patent attorneys (benrishi) in Japan may represent a client in court along with a lawyer (bengoshi) if they pass certain national examinations.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the main purpose of the ""Laws & Regulations on Setting Up Business in Japan"" booklet?
+<|im_start|>Answer
+","The main purpose of the ""Laws & Regulations on Setting Up Business in Japan"" booklet is to provide information on laws, regulations, and procedures related to setting up a business in Japan for foreign companies.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the definition of ""workers"" under the Labor Standards Act in Japan?
+<|im_start|>Answer
+","The definition of ""workers"" under the Labor Standards Act in Japan is not provided in the given information.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who can complete procedures related to notifications and applications on behalf of a mid- to long-term resident if approved by the director of a regional immigration bureau?
+<|im_start|>Answer
+","A legal representative or any of the following persons may submit documents or complete other procedures related to notifications and applications on behalf of the individual: an employee of a host institution or charitable corporation approved by the director of a regional immigration bureau, an attorney or an administrative scrivener (gyoseishoshilawyer) who files a notification regarding documents submission with the director of a regional immigration bureau by way of the bar association or administrative scrivener association to which the attorney or administrative scrivener belongs. In certain cases, family members, cohabitants, and persons equivalent to cohabitants of the individual who have been approved by the director of a regional immigration bureau may also complete procedures related to notifications and applications on behalf of the individual.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can directors resign at any time in Kabushiki-Kaisha companies?
+<|im_start|>Answer
+","Yes, directors can resign at any time at their own discretion in Kabushiki-Kaisha companies.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Are there any specific activities that representative offices, etc., of a foreign corporation are not supposed to engage in to avoid deriving income subject to corporation tax in Japan?
+<|im_start|>Answer
+","Representative offices, etc., of a foreign corporation are not supposed to derive any income subject to corporation tax from publicity/advertising, information provision, market surveys, basic study, and other activities auxiliary to the performance of its business.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is JETRO responsible for any losses incurred from reliance on the information in this publication?
+<|im_start|>Answer
+","No, JETRO does not accept responsibilities for any loss arising from reliance on the information in this publication.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the term length for directors in small and medium companies in Japan?
+<|im_start|>Answer
+",The term length for directors in small and medium companies in Japan is 1 year.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How is the resident card issued to mid-to long-term residents in Japan?
+<|im_start|>Answer
+","At Narita, Haneda, Chubu, Kansai, Shinchitose, Hiroshima, and Fukuoka Airports, mid-to long-term residents will be issued a resident card upon landing. At other ports of entry/departure, a seal of landing verification will be stamped in the passport, and a resident card will be issued after the mid-to long-term resident follows the residency procedure at the municipal office of the city/town/village.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the process for a foreign national to change their temporary visitor status of residence to another status of residence while in Japan?
+<|im_start|>Answer
+","If a foreign national who has applied for a Certificate of Eligibility is already in Japan on a temporary visitor status of residence when the Certificate of Eligibility is issued, they may be able to change their temporary visitor status of residence to the status of residence approved in the Certificate of Eligibility while still in Japan, without the need to apply for and receive a visa at a Japanese diplomatic mission outside Japan.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ How do privately-run employment agencies in Japan collect fees?
+<|im_start|>Answer
+","Privately-run employment agencies in Japan often collect fees on a contingency basis, meaning they collect fees when someone from their database is successfully employed with a company.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is it necessary to pay an annuity each year to maintain design rights protection in Japan?
+<|im_start|>Answer
+","Yes, it is necessary to pay an annuity each year to maintain design rights protection in Japan.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the minimum number of employees required to take out social insurance?
+<|im_start|>Answer
+",You need to take out social insurance if you have 5 or more employees.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the application fee for one trademark in one class in Japan?
+<|im_start|>Answer
+","The application fee for one trademark in one class in Japan is 12,000 yen.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Can employers set a probation period before fully employing someone?
+<|im_start|>Answer
+","Yes, employers are allowed to set a limited period of probation.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What happens if a subsidiary company has negative net assets and cannot independently complete liquidation procedures?
+<|im_start|>Answer
+",The corporation must follow special liquidation procedures under the direction of a court.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the purpose of an Intra-company Transferee status of residence in Japan?
+<|im_start|>Answer
+","The purpose of an Intra-company Transferee status of residence in Japan is for personnel who are transferred to business offices in Japan for a limited period of time from business offices established in foreign countries by organizations with head offices, branch offices, or other business offices in Japan.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the maximum working hours per week for businesses that are permitted to have their employees work up to 44 hours per week?
+<|im_start|>Answer
+",44 hours per week.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the process for registering a new business in Japan?
+<|im_start|>Answer
+","The process for registering a new business in Japan involves applying for a tax number, registering the company with the Legal Affairs Bureau, and obtaining any necessary licenses or permits.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the benefit of using the services of administrative scriveners for immigration procedures in Japan?
+<|im_start|>Answer
+",Using the services of administrative scriveners exempts foreign applicants and companies employing foreigners from the need to appear personally at the Immigration Bureau and enables entry procedures to be proceeded accurately and promptly.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the company seal impression certificate in Japan?
+<|im_start|>Answer
+","The company seal impression certificate is a document publicly certifying the company seal that has been registered. It is used to confirm whether or not company seals placed on applications, filings, contracts, etc., have been placed there with legitimate authorization from the company.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Is it necessary for a trademark to be used within three years after registration in Japan?
+<|im_start|>Answer
+","Yes, trademarks must be used within three years after registration in Japan, or they may be nullified.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the individual income tax rates for residents and aggregate taxation of non-residents in Japan?
+<|im_start|>Answer
+","The individual income tax rates for residents and aggregate taxation of non-residents in Japan are as shown in Table 3-7. The rates range from 5% to 45%, depending on the bracket of taxable income.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ When must newly established subsidiary companies and foreign corporations submit an application for approval to file a blue form tax return?
+<|im_start|>Answer
+","Newly established subsidiary companies and foreign corporations must submit the application for approval no later than the day prior to either the day following three months since and including the date of the establishment of the corporation/branch or the last day of the corporation's/branch's initial taxable year after establishment, whichever comes first.<|im_end|>",train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What are the standard rates of Individual Inhabitant Tax (income-graded component) in Japan?
+<|im_start|>Answer
+",The standard rates of Individual Inhabitant Tax (income-graded component) are 4% for prefectural tax and 6% for municipal tax.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ Who pays the premiums for Workers' Accident Compensation Insurance in Japan?
+<|im_start|>Answer
+",The employer pays the premiums for Workers' Accident Compensation Insurance in Japan.<|im_end|>,train
+"<|im_start|>system
+You are a law expert. Based on the given question, generate a single line answer concisely.  <|im_end|>
+<|im_start|>Question
+ What is the recommended action if a representative office needs clarification on social insurance coverage in Japan?
+<|im_start|>Answer
+",It is recommended to request the advice of an expert in such cases.<|im_end|>,train
