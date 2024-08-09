@@ -13,7 +13,7 @@ LoRA Adapters showed excellent performance for Korean and Japanese legal context
 
 
 ## Proposed Methodology  
-![image](https://github.com/user-attachments/assets/bab04e3d-b2eb-485f-910c-2c419d9e7ef3) 
+![image](https://github.com/user-attachments/assets/de551686-d611-4304-89ca-9a9d63180de2)
 
 
 ## Generated Dataset Details
