@@ -19,6 +19,11 @@ LoRA Adapters showed excellent performance for Korean and Japanese legal context
 ## Generated Dataset Details
 ![image](https://github.com/user-attachments/assets/342ef0d2-138c-40c7-8de1-9bc361669050)
 
+## Demo 
+[Gradio Demo](https://huggingface.co/spaces/emon-j/Law-Advisor)  
+
+<img width="1248" alt="image" src="https://github.com/user-attachments/assets/9bd9b264-4b4f-4661-9247-e0fa00f0ea72">
+
 
 ## Finetuned for Adapter Classification
 Number of Class: 4
