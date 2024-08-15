@@ -35,6 +35,9 @@ Adapter Output:
 ``` 
 Using this output, we can select the appropriate finetuned adapter to answer this domain specific question.  
 
-![image](https://github.com/user-attachments/assets/70881ca0-855c-498e-8ae5-9ca8311b9d62)
+![image](https://github.com/user-attachments/assets/70881ca0-855c-498e-8ae5-9ca8311b9d62) 
+
+## FastAPI (Docker Image) 
+Coming Soon. 
 
 
